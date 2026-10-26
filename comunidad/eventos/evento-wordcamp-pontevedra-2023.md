@@ -3,11 +3,11 @@ tipo: evento
 titulo: "WordCamp Pontevedra 2023"
 categoria: WordCamp
 fecha: 2023-09-15
-fecha_fin:
+fecha_fin: 2023-09-17
 pais: ES
 online: false
 papeles:
   - voluntario
-web:
+web: "https://pontevedra.wordcamp.org/2023/"
 thewpworld: "https://thewp.world/events/wordcamp-pontevedra-2023/"
 ---

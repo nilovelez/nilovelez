@@ -3,11 +3,11 @@ tipo: evento
 titulo: "WordCamp Europe 2023"
 categoria: WordCamp
 fecha: 2023-06-08
-fecha_fin:
+fecha_fin: 2023-06-10
 pais: GR
 online: false
 papeles:
   - organizador
-web:
+web: "https://europe.wordcamp.org/2023/"
 thewpworld: "https://thewp.world/events/wordcamp-europe-2023/"
 ---

@@ -3,11 +3,11 @@ tipo: evento
 titulo: "WordCamp Galicia 2026"
 categoria: WordCamp
 fecha: 2026-10-16
-fecha_fin:
+fecha_fin: 2026-10-18
 pais: ES
 online: false
 papeles:
   - voluntario
-web:
+web: "https://galicia.wordcamp.org/2026/"
 thewpworld: "https://thewp.world/events/wordcamp-galicia-2026/"
 ---

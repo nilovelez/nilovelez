@@ -6,7 +6,78 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:evento-",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:ponencia-",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "file:galeria-",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "file:proyecto-",
+      "color": {
+        "a": 1,
+        "rgb": 9032417
+      }
+    },
+    {
+      "query": "file:equipo-",
+      "color": {
+        "a": 1,
+        "rgb": 5408992
+      }
+    },
+    {
+      "query": "file:etapa-",
+      "color": {
+        "a": 1,
+        "rgb": 9429074
+      }
+    },
+    {
+      "query": "file:reconocimiento-",
+      "color": {
+        "a": 1,
+        "rgb": 14737490
+      }
+    },
+    {
+      "query": "file:entrevista-",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "file:articulo-",
+      "color": {
+        "a": 1,
+        "rgb": 14701224
+      }
+    },
+    {
+      "query": "file:bio-",
+      "color": {
+        "a": 1,
+        "rgb": 10526880
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3631445579995362,
+  "scale": 0.25902210260594133,
   "close": true
 }

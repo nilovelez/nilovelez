@@ -3,11 +3,11 @@ tipo: evento
 titulo: "WordCamp Centroamérica 2021"
 categoria: WordCamp
 fecha: 2021-04-15
-fecha_fin:
+fecha_fin: 2021-04-17
 pais:
 online: true
 papeles:
   - asistente
-web:
+web: "https://centroamerica.wordcamp.org/2021/"
 thewpworld: "https://thewp.world/events/wordcamp-centroamerica-2021/"
 ---

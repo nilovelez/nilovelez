@@ -3,12 +3,12 @@ tipo: evento
 titulo: "WordCamp Galicia 2025"
 categoria: WordCamp
 fecha: 2025-10-03
-fecha_fin:
+fecha_fin: 2025-10-05
 pais: ES
 online: false
 papeles:
   - ponente
   - voluntario
-web:
+web: "https://galicia.wordcamp.org/2025/"
 thewpworld: "https://thewp.world/events/wordcamp-galicia-2025/"
 ---

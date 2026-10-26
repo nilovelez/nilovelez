@@ -14,7 +14,7 @@ views:
       - papeles
     sort:
       - property: fecha
-        direction: DESC
+        direction: ASC
   - type: table
     name: Organizador
     filters:

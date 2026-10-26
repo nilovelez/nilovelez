@@ -1,6 +1,6 @@
 # Status
 
-The repo has its folder structure, Obsidian-compatible notes, templates and Bases views. Talks were imported from Nilo's spreadsheet and events from his thewp.world profile. Next: Nilo reviews the imported data using `vistas/revision-charlas-eventos.md`, then the GitHub profile README gets written.
+The repo has its folder structure, Obsidian-compatible notes, templates and Bases views. Talks were imported from Nilo's spreadsheet and events from his thewp.world profile. Next: Nilo reviews the imported data using `vistas/revision-ponencias-eventos.md`, then the GitHub profile README gets written.
 
 ## Log
 

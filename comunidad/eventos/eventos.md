@@ -1,6 +1,6 @@
 # Eventos
 
-Registro completo, tipo changelog, de los eventos en los que ha participado Nilo, con sus papeles (organizador, voluntario, fotógrafo, ponente, mentor). Las charlas y galerías enlazan a su evento desde la cabecera.
+Registro completo, tipo changelog, de los eventos en los que ha participado Nilo, con sus papeles (organizador, voluntario, fotógrafo, ponente, mentor). Las ponencias y galerías enlazan a su evento desde la cabecera.
 
 Alimenta el perfil de WordPress.org: último año en detalle, resumen de los anteriores y remisión a la web.
 
@@ -12,7 +12,7 @@ Campos (plantilla en `plantillas/plantilla-evento.md`):
 - `fecha`, `fecha_fin`: inicio y fin.
 - `pais`: código de país de dos letras (`ES`, `PT`; `EU` para la WordCamp Europe 2021, online).
 - `online`: casilla.
-- `papeles`: lista con `asistente`, `ponente`, `voluntario`, `organizador`…
+- `papeles`: lista con `asistente`, `ponente`, `voluntario`, `organizador`, `líder de mesa`… Los papeles son genéricos; el detalle (co-líder, de qué mesa: traducciones, fotos, TV…) va en el texto de la nota del evento.
 - `web`: web oficial del evento.
 - `thewpworld`: página del evento en thewp.world.
 

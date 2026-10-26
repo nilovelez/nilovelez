@@ -3,11 +3,11 @@ tipo: evento
 titulo: "WordPress Diversity Day 2025"
 categoria:
 fecha: 2025-10-18
-fecha_fin:
+fecha_fin: 2025-10-18
 pais: ES
 online: false
 papeles:
   - organizador
-web:
+web: "https://events.wordpress.org/valencia/2025/diversityday/"
 thewpworld: "https://thewp.world/events/wordpress-diversity-day-2025/"
 ---
