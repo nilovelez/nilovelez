@@ -66,6 +66,10 @@ Publicar una pieza son tareas independientes que se desbloquean según llega cad
 
 ## Obsidian y git
 
-- Nilo edita en Obsidian y hace commit y push a mano.
-- **Antes de modificar archivos, mirar `git status`** para no pisar cambios de Nilo sin guardar.
-- Obsidian reescribe archivos de `.obsidian/` al usarlo (zoom del grafo, ventanas). No revertir esos cambios.
+Nilo trabaja desde varios equipos: Claude corre en Marcianito, un equipo de casa, y Nilo puede clonar el repo en otros (el portátil), editar en Obsidian, incluso sin conexión, y hacer push. Para que las versiones no se crucen:
+
+- **Al empezar una sesión o cuando Nilo avise de cambios, `git pull`** antes de tocar nada. Mirar también `git status` para no pisar cambios sin guardar.
+- **Revisar los cambios de Nilo** con `git diff` sobre la versión anterior: formatos de los campos, fechas, erratas, enlaces `[[ ]]` rotos, nombres de archivo que no sigan la convención. Si algo no cuadra, preguntar; las correcciones se proponen, no se aplican sin más.
+- **No dejar trabajo a medias sin commit** al terminar una sesión, para que no se cruce con lo que Nilo edite en otro equipo. Si hay cambios pendientes, avisar a Nilo antes de terminar.
+- Commit y push solo cuando Nilo lo pida (ver «Privacidad y publicación»).
+- Obsidian reescribe archivos de `.obsidian/` al usarlo (zoom del grafo, ventanas). No revertir esos cambios. `workspace.json` está ignorado en git.
