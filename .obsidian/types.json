@@ -1,0 +1,9 @@
+{
+  "types": {
+    "fecha": "date",
+    "fecha_fin": "date",
+    "online": "checkbox",
+    "papeles": "multitext",
+    "thewpworld": "checkbox"
+  }
+}
