@@ -13,7 +13,7 @@ diapositivas: "https://speakerdeck.com/nilovelez/seguridad-en-wordpress-conoce-a
 video_wptv: "https://wordpress.tv/2018/08/02/nilo-velez-seguridad-en-wordpress-conoce-a-tu-enemigo/"
 video_youtube: "https://www.youtube.com/watch?v=ANjtGePqPEg"
 imagen_destacada:
-articulo:
+articulo: "https://www.nilovelez.com/ponencias/seguridad-en-wordpress-conoce-a-tu-enemigo/"
 thewpworld:
 ---
 

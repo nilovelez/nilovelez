@@ -13,7 +13,7 @@ diapositivas: "https://speakerdeck.com/nilovelez/sabes-mas-que-una-ia"
 video_wptv: "https://wordpress.tv/2025/04/27/charla-concurso-sabes-mas-que-una-ia/"
 video_youtube: "https://www.youtube.com/watch?v=ZvQsf2i6RwU"
 imagen_destacada:
-articulo:
+articulo: "https://www.nilovelez.com/ponencias/sabes-mas-que-una-ia/"
 thewpworld: true
 ---
 

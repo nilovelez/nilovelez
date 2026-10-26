@@ -13,7 +13,7 @@ diapositivas: "https://speakerdeck.com/nilovelez/eventos-wordpress-de-bajo-coste
 video_wptv: "https://wordpress.tv/2025/06/02/eventos-wordpress-de-bajo-coste-y-alto-impacto/"
 video_youtube: "https://www.youtube.com/watch?v=fRdrHFV7X_k"
 imagen_destacada:
-articulo:
+articulo: "https://www.nilovelez.com/ponencias/eventos-wordpress-de-bajo-coste-y-alto-impacto/"
 thewpworld:
 ---
 

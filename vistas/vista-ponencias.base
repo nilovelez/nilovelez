@@ -15,7 +15,7 @@ views:
       - articulo
     sort:
       - property: fecha
-        direction: ASC
+        direction: DESC
   - type: table
     name: Sin fecha
     filters:

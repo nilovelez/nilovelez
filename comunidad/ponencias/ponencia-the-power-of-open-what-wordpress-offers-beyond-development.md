@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "The Power of Open: What WordPress Offers Beyond Development"
 formato:
-fecha: 2026-05-19
+fecha: 2026-05-15
 evento: "[[evento-wordcamp-portugal-2026]]"
 lugar: "WordCamp Portugal 2026"
 idioma: en
@@ -16,3 +16,5 @@ imagen_destacada:
 articulo:
 thewpworld:
 ---
+
+Dada en el Contributor Day.

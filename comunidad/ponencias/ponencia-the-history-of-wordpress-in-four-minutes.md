@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "The History of WordPress (in four minutes)"
 formato:
-fecha: 2019-10-08
+fecha: 2019-10-05
 evento: "[[evento-wordcamp-sevilla-2019]]"
 lugar: "WordCamp para desarrolladores Sevilla 2019"
 idioma: en

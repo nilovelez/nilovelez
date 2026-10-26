@@ -10,7 +10,7 @@ coponentes:
 web_sesion: "https://events.wordpress.org/denia/2024/trabajoremoto/session/consejos-sobre-teletrabajo-en-menos-de-un-minuto/"
 diapositivas_original:
 diapositivas:
-video_wptv:
+video_wptv: "https://wordpress.tv/2024/10/20/consejos-sobre-teletrabajo-en-menos-de-un-minuto/"
 video_youtube:
 imagen_destacada:
 articulo:

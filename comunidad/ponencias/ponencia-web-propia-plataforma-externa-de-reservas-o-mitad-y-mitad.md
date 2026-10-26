@@ -13,7 +13,7 @@ diapositivas: "https://speakerdeck.com/nilovelez/web-propia-plataforma-externa-d
 video_wptv: "https://wordpress.tv/2024/10/31/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/"
 video_youtube: "https://www.youtube.com/watch?v=dhHSNdKsuJ4"
 imagen_destacada:
-articulo:
+articulo: "https://www.nilovelez.com/ponencias/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/"
 thewpworld: true
 ---
 

@@ -13,7 +13,7 @@ diapositivas: "https://speakerdeck.com/nilovelez/disena-tu-propio-tema-de-bloque
 video_wptv: "https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/"
 video_youtube: "https://www.youtube.com/watch?v=vfDknAla3do"
 imagen_destacada:
-articulo:
+articulo: "https://www.nilovelez.com/ponencias/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/"
 thewpworld:
 ---
 
