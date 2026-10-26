@@ -6,4 +6,4 @@ The repo has its folder structure, Obsidian-compatible notes, templates and Base
 
 Newest entries first. One per work session, brief.
 
-- 2026-10-26: Planned the repo, created the folder structure, imported 43 talks and 83 events, and registered the project in Guppy. Pending: data review and the profile README. guppy/STATUS.md created.
+- 2026-10-26: Planned the repo, created the folder structure, imported 43 talks and 83 events, set the multi-device workflow rules in CLAUDE.md, and registered the project in Guppy (title "nilovelez.com"). Pending: data review and the profile README. guppy/STATUS.md created.
