@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1vDUiAKfwn62obAlDy3I-FylwAOTrv5Pg/edit?usp=sharing&ouid=114133374896172055574&rtpof=true&sd=true"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/viaje-a-la-prehistoria-de-wordpress-wordcamp-granada-2019"
 video_wptv: "https://wordpress.tv/2019/12/23/nilo-velez-viaje-a-la-prehistoria-de-wordpress/"
 video_youtube:
 imagen_destacada:

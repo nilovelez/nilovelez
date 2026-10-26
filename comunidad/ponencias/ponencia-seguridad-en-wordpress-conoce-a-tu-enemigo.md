@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://sevilla.wordcamp.org/2018/session/seguridad-en-wordpress-conoce-a-tu-enemigo/"
 diapositivas_original: "https://docs.google.com/presentation/d/1hmIZe-HP8apFqd0eCK6aONQE7nXc-O8PRtJU6wkhZxs/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/seguridad-en-wordpress-conoce-a-tu-enemigo"
 video_wptv: "https://wordpress.tv/2018/08/02/nilo-velez-seguridad-en-wordpress-conoce-a-tu-enemigo/"
 video_youtube: "https://www.youtube.com/watch?v=ANjtGePqPEg"
 imagen_destacada:

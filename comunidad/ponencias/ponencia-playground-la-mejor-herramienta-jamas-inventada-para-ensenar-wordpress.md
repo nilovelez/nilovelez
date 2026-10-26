@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://galicia.wordcamp.org/2025/session/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
 diapositivas_original: "https://galicia.wordcamp.org/2025/files/2025/10/nilo.pdf"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress"
 video_wptv: "https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
 video_youtube: "https://www.youtube.com/watch?v=XY6aMvYen8Q"
 imagen_destacada:

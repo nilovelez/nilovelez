@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "Presentador de la WordCamp Sevilla 2020"
 formato: presentador
-fecha:
+fecha: 2020-12-26
 evento: "[[evento-wordcamp-sevilla-2020]]"
 lugar: "WordCamp Sevilla 2020"
 idioma: es

@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1DKGK4_ChH9NVb-dNMzLpmXuIWhMt9BNEVAYZfDn0hwk/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/como-dar-el-salto-de-usar-wordpress-a-hacer-webs-con-wordpress"
 video_wptv:
 video_youtube:
 imagen_destacada:

@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://www.meetup.com/quedadas-wordpress-en-espanol/events/308128817/"
 diapositivas_original: "https://docs.google.com/presentation/d/1WdjqMuajzPmXhHq546mbTtunhm2U4iLBp_jo4G051RM/edit?slide=id.g35b27fb7b1f_0_167#slide=id.g35b27fb7b1f_0_167"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/eventos-wordpress-de-bajo-coste-y-alto-impacto"
 video_wptv: "https://wordpress.tv/2025/06/02/eventos-wordpress-de-bajo-coste-y-alto-impacto/"
 video_youtube: "https://www.youtube.com/watch?v=fRdrHFV7X_k"
 imagen_destacada:

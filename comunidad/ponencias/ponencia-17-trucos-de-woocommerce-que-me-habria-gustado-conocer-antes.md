@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original:
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes"
 video_wptv: "https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-habria-gustado-conocer-antes/"
 video_youtube:
 imagen_destacada:

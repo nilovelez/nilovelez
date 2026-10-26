@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://www.meetup.com/quedadas-wordpress/events/298372322/"
 diapositivas_original: "https://docs.google.com/presentation/d/19N9mV4ZtlQDzMKEDoUSOQIMRDazlQ13URQX2IiicAIQ/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/gravatar-toma-el-control-de-tu-imagen-en-linea"
 video_wptv: "https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imagen-en-linea/"
 video_youtube:
 imagen_destacada:

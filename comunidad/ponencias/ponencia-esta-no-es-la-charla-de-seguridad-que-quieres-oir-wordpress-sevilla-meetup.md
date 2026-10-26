@@ -16,3 +16,9 @@ imagen_destacada:
 articulo:
 thewpworld:
 ---
+
+Desde siempre te han enseñado a temer al hacker de la capucha.
+En esta charla vas a conocer al chino en calzoncillos y te voy a enseñar a defenderte de él.
+Ni magia, ni IAs ni moderneces, solo sentido común aplicado al MundoReal™
+
+Fuente: https://www.meetup.com/es-es/wordpress-sevilla/events/301156297/

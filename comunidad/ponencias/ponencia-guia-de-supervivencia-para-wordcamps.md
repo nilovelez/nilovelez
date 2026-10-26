@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "Guía de supervivencia para WordCamps"
 formato:
-fecha:
+fecha: 2022-10-21
 evento: "[[evento-wordcamp-valencia-2022]]"
 lugar: "WordCamp Valencia 2022"
 idioma: es

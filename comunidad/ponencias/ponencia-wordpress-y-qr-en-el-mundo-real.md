@@ -9,10 +9,14 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://drive.google.com/file/d/1IVQi5sU6QkuOQhflIcrSQeMZvbj5XHyU/view?usp=drive_link"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/flash-talks-wordpress-y-qr-en-el-mundo-real"
 video_wptv:
-video_youtube:
+video_youtube: "https://www.youtube.com/watch?v=CESCglz0pEQ"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/wordpress-y-qrs-en-el-mundoreal/"
 thewpworld:
 ---
+
+Pequeña charla (Flash-talk) que di en la WordCamp Sevilla 2012. Todo mi agradecimiento a TresPixels por el video.
+
+Fuente: https://www.nilovelez.com/ponencias/wordpress-y-qrs-en-el-mundoreal/

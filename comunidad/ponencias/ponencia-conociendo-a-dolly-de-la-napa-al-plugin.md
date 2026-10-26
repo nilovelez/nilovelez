@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://drive.google.com/file/d/1HZ3cY-t5OtahhAwWfY6LT8Hq8ittlVGe/view?usp=drive_link"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/conociendo-a-dolly-de-la-napa-al-plugin"
 video_wptv: "https://wordpress.tv/2023/08/23/conociendo-a-dolly-de-la-napa-al-plugin/"
 video_youtube: "https://www.youtube.com/watch?v=5dqst1aNDfE"
 imagen_destacada:

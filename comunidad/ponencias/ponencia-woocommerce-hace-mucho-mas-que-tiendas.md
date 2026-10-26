@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://grinon.wordcamp.org/2024/session/woocommerce-hace-mucho-mas-que-tiendas/"
 diapositivas_original: "https://docs.google.com/presentation/d/1ERPrV_SrtDMFcLEbDhBj6FbACfJiKzbKPuB77p0mbvU/edit?usp=drive_link"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/woocommerce-hace-mucho-mas-que-tiendas"
 video_wptv: "https://wordpress.tv/2024/11/24/woocommerce-hace-mucho-mas-que-tiendas/"
 video_youtube:
 imagen_destacada:

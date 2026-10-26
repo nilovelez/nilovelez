@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "Concurso eCommerce y WordPress"
 formato: concurso
-fecha:
+fecha: 2026-04-25
 evento: "[[evento-wordcamp-malaga-2026]]"
 lugar: "WordCamp Málaga 2026"
 idioma: es

@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1pJD1YY73i28UMgsNrKs_fCucOqXbUYMSftgbkO3yZik/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/internacionalizacion-de-temas-y-plugins-para-desarrolladores"
 video_wptv: "https://wordpress.tv/2018/10/30/internacionalizacion-de-temas-y-plugins-para-desarrolladores/"
 video_youtube: "https://www.youtube.com/watch?v=riFVA3WDuTY"
 imagen_destacada:

@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1yLG1LHBxuhtUibbYZgN1XOoOmforo0z_DNV0P2jcLSY/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/introduccion-a-las-traducciones-enwordpress"
 video_wptv: "https://wordpress.tv/2018/11/26/nilo-velez-polyglots-introduccion-a-las-traducciones-de-wordpress/"
 video_youtube: "https://www.youtube.com/watch?v=9KtlFY7OiGY"
 imagen_destacada:

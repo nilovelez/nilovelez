@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://www.meetup.com/wordpress-sevilla/events/308834087/"
 diapositivas_original:
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo"
 video_wptv: "https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/"
 video_youtube: "https://www.youtube.com/watch?v=vfDknAla3do"
 imagen_destacada:

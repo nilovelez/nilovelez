@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion: "https://techstarsstartupweeksevilla2018.sched.com/event/EcFu/wordpress-sevilla-comunidad-desarrollo-web-y-empresa"
 diapositivas_original: "https://docs.google.com/presentation/d/1r-1Q7G2_eHJZi4Rfx-DvOouOPosdr2IIxkO8d47BbJw/edit?usp=sharing"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/guia-de-primeros-auxilios-para-gestores-de-contenidos"
 video_wptv:
 video_youtube:
 imagen_destacada:

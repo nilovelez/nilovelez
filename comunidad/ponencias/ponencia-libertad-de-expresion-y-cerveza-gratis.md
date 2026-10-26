@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1xdUavnfwDTSqMOtiecIfaTw0XoeqZNk32YHce7N7o3A/edit?usp=share_link"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/libertad-de-expresion-y-cerveza-gratis"
 video_wptv: "https://wordpress.tv/2023/03/12/nilo-velez-libertad-de-expresion-y-cerveza-gratis/"
 video_youtube:
 imagen_destacada:

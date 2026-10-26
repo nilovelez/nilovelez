@@ -2,7 +2,7 @@
 tipo: ponencia
 titulo: "¿Seguro que necesitas Google Analytics?"
 formato:
-fecha:
+fecha: 2022-10-16
 evento:
 lugar: "Mobile Week Alcalá (2022)"
 idioma: es

@@ -1,5 +1,6 @@
 {
   "types": {
+    "coponentes": "multitext",
     "fecha": "date",
     "fecha_fin": "date",
     "online": "checkbox",

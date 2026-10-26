@@ -9,7 +9,7 @@ idioma: es
 coponentes:
 web_sesion:
 diapositivas_original: "https://docs.google.com/presentation/d/1ov7Ezvpnjrv7CpgirYQro8Cpt5awQCnB/edit?usp=drive_link&ouid=114133374896172055574&rtpof=true&sd=true"
-diapositivas:
+diapositivas: "https://speakerdeck.com/nilovelez/wpo-en-wordpress-para-reducir-costes-y-aumentar-beneficios"
 video_wptv: "https://wordpress.tv/2019/10/20/nilo-velez-wpo-en-wordpress-para-reducir-costes-y-aumentar-beneficios/"
 video_youtube: "https://www.youtube.com/watch?v=S9mFu1ihYU0"
 imagen_destacada:
