@@ -1,0 +1,48 @@
+filters:
+  and:
+    - tipo == "charla"
+    - file.inFolder("comunidad/charlas")
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - fecha
+      - lugar
+      - diapositivas
+      - video_wptv
+      - video_youtube
+      - articulo
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
+    name: Sin fecha
+    filters:
+      and:
+        - fecha.isEmpty()
+    order:
+      - file.name
+      - lugar
+      - video_wptv
+  - type: table
+    name: Subir a YouTube
+    filters:
+      and:
+        - "!video_wptv.isEmpty()"
+        - video_youtube.isEmpty()
+    order:
+      - file.name
+      - fecha
+      - video_wptv
+      - diapositivas
+  - type: table
+    name: Falta artículo
+    filters:
+      and:
+        - articulo.isEmpty()
+    order:
+      - file.name
+      - fecha
+      - diapositivas
+      - video_youtube

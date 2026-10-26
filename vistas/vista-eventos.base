@@ -1,0 +1,53 @@
+filters:
+  and:
+    - tipo == "evento"
+    - file.inFolder("comunidad/eventos")
+views:
+  - type: table
+    name: Todos
+    order:
+      - file.name
+      - fecha
+      - categoria
+      - pais
+      - online
+      - papeles
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
+    name: Organizador
+    filters:
+      and:
+        - papeles.contains("organizador")
+    order:
+      - file.name
+      - fecha
+      - papeles
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
+    name: Ponente
+    filters:
+      and:
+        - papeles.contains("ponente")
+    order:
+      - file.name
+      - fecha
+      - papeles
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
+    name: Voluntario
+    filters:
+      and:
+        - papeles.contains("voluntario")
+    order:
+      - file.name
+      - fecha
+      - papeles
+    sort:
+      - property: fecha
+        direction: DESC
