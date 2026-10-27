@@ -17,4 +17,4 @@ This account is where I develop most of my projects, along with small tools for 
 - **[Machete](https://wordpress.org/plugins/machete/)**: the toolbox I kept rebuilding on every WordPress site, turned into a plugin.
 - **[Intentionally Blank](https://wordpress.org/themes/intentionally-blank/)**: a WordPress theme that does as little as possible, on purpose.
 
-[Website](https://www.nilovelez.com/) · [WordPress.org](https://profiles.wordpress.org/nilovelez/) · [WordPress.tv](https://wordpress.tv/speakers/nilo-velez/) · [LinkedIn](https://www.linkedin.com/in/nilovelez) · [Mastodon](https://wptoots.social/@nilo)
+[Website](https://www.nilovelez.com/) · [WordPress.org](https://profiles.wordpress.org/nilovelez/) · [WordPress.tv](https://wordpress.tv/speakers/nilo-velez/)
