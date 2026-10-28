@@ -6,6 +6,8 @@ The repo has its folder structure, Obsidian-compatible notes, templates and Base
 
 Newest entries first. One per work session, brief.
 
+- 2026-10-28 (late night): Ran a test of aggregate stats from events and talks (WordCamps and WordPress events only, no meetups): the data is patchy by design and will be filled in over time. Nilo filled `categoria` in 21 events; created the Dénia remote-work WordPress Day event and linked its talk. Cleaned up the review checklist.
+
 - 2026-10-28 (night): Reviewed Nilo's Speaker Deck links for two talks (Guía de supervivencia para WordCamps, Local by Flywheel) and the review checklist.
 
 - 2026-10-28 (late evening): Added three talks (WordPress Day Sevilla 2025 welcome, Summer Photo Contest opening, WordCamp Sevilla 2024 teams session) and the Summer Photo Contest 2025 event. Reviewed Nilo's new WordPress.tv links on four older talks.

@@ -1,13 +1,13 @@
 ---
 tipo: evento
-titulo: "WP Agency Forum 2025"
-categoria:
+titulo: WP Agency Forum 2025
+categoria: Evento WordPress
 fecha: 2025-10-15
 fecha_fin: 2025-10-15
 pais: ES
 online: false
 papeles:
   - asistente
-web: "https://wpagencyforum.com/"
-thewpworld: "https://thewp.world/events/wp-agency-forum-2025/"
+web: https://wpagencyforum.com/
+thewpworld: https://thewp.world/events/wp-agency-forum-2025/
 ---

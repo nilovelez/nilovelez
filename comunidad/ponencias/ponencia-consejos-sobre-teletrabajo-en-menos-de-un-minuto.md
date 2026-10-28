@@ -3,7 +3,7 @@ tipo: ponencia
 titulo: "Consejos sobre teletrabajo en menos de un minuto"
 formato:
 fecha: 2024-10-19
-evento:
+evento: "[[evento-wordpress-day-denia-trabajo-remoto-2024]]"
 lugar: "Denia Trabajo Remoto"
 idioma: es
 coponentes:
