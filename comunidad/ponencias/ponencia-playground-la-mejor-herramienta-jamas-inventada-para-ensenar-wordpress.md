@@ -1,21 +1,21 @@
 ---
 tipo: ponencia
-titulo: "Playground, la mejor herramienta jamás inventada para enseñar WordPress"
-formato:
+titulo: Playground, la mejor herramienta jamás inventada para enseñar WordPress
+formato: charla
 fecha: 2025-10-04
 evento: "[[evento-wordcamp-galicia-2025]]"
-lugar: "WordCamp Galicia 2025"
+lugar: WordCamp Galicia 2025
 idioma: es
 coponentes:
-web_sesion: "https://galicia.wordcamp.org/2025/session/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
-diapositivas_original: "https://galicia.wordcamp.org/2025/files/2025/10/nilo.pdf"
-diapositivas: "https://speakerdeck.com/nilovelez/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress"
-video_wptv: "https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
-video_youtube: "https://www.youtube.com/watch?v=XY6aMvYen8Q"
-imagen_destacada:
-articulo: "https://www.nilovelez.com/ponencias/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
-revisada:
-thewpworld:
+web_sesion: https://galicia.wordcamp.org/2025/session/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/
+diapositivas_original: https://galicia.wordcamp.org/2025/files/2025/10/nilo.pdf
+diapositivas: https://speakerdeck.com/nilovelez/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress
+video_wptv: https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/
+video_youtube: https://www.youtube.com/watch?v=XY6aMvYen8Q
+imagen_destacada: https://www.nilovelez.com/wp-content/uploads/2025/11/2025-10-04-WCGalicia25-Playground-la-mejor-herramienta-jamas-inventada-para-ensenar-WordPress.jpg
+articulo: https://www.nilovelez.com/ponencias/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/
+revisada: true
+thewpworld: true
 ---
 
 Es posible que ya hayas oído hablar de Playground y puede que hasta hayas cacharreado con él, pero en esta charla te voy a enseñar por qué es una herramienta de formación alucinante.
