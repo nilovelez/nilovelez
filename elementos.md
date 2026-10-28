@@ -82,6 +82,7 @@ El plan de rediseño (`rediseno-nilovelez.md`) es un subproyecto de esta secció
 - **Formato base:** imagen adjunta, texto y URL en el texto. La alternativa es una tarjeta de enlace (la vista previa de la web), pero no se puede combinar con imagen adjunta y X no admite tarjeta configurable. Queda abierto según cómo trate cada red el alcance; solo cambiaría el paso que construye la publicación.
 - **Por defecto**, una publicación sin fecha va a la cola y toma el siguiente hueco del horario del canal. También existen «siguiente hueco» (adelantándose a la cola) y «publicar ya».
 - **Plan gratuito de Buffer:** 3 canales (los tres en uso), 10 publicaciones programadas **por canal**, 1 hilo programado a la vez, 100 ideas y 1 clave de API. Suficiente para este uso.
+- **Primera vez:** la ponencia de WordCamp Portugal 2026 (28/10/2026). LinkedIn con un texto largo; X y Bluesky con uno corto. Imagen destacada adjunta y URL en el texto, en cola con el horario por defecto de cada canal.
 - **Pendiente:** ajustar los horarios de cada canal (ahora X solo tiene el lunes a las 11:14).
 - Los borradores de redes y la cola viven en Buffer, no en el repo.
 

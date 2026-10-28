@@ -6,7 +6,7 @@ The repo has its folder structure, Obsidian-compatible notes, templates and Base
 
 Newest entries first. One per work session, brief.
 
-- 2026-10-28 (afternoon): Checked the Buffer MCP (three channels, free plan limits, default queue behavior) and documented the planned sharing flow in `elementos.md`. Reviewed and closed the WordCamp Portugal 2026 talk note: format set, marked `revisada`, draft removed.
+- 2026-10-28 (afternoon): Checked the Buffer MCP (three channels, free plan limits, default queue behavior) and documented the planned sharing flow in `elementos.md`. Reviewed and closed the WordCamp Portugal 2026 talk note: format set, marked `revisada`, draft removed. First real run of the flow: its post was queued in Buffer on Bluesky, LinkedIn and X (image, text and URL).
 
 - 2026-10-28 (morning, later): Valencia 2026 post drafted on the web by Nilo; slides linked and remaining steps listed in its note.
 
