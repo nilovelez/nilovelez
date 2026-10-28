@@ -8,6 +8,7 @@ pais: IT
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://pisa.wordcamp.org/2025/"
 thewpworld: "https://thewp.world/events/wordcamp-pisa-2025/"
 ---

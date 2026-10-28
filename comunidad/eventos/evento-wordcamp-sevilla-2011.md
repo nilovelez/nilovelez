@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2011/"
 thewpworld: "https://thewp.world/events/wordcamp-sevilla-2011/"
 ---

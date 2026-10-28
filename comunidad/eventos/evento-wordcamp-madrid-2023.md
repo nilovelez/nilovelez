@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://madrid.wordcamp.org/2023/"
 thewpworld: "https://thewp.world/events/wordcamp-madrid-2023/"
 ---

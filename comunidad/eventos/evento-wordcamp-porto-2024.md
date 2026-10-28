@@ -8,6 +8,7 @@ pais: PT
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://porto.wordcamp.org/2024/"
 thewpworld: "https://thewp.world/events/wordcamp-porto-2024/"
 ---

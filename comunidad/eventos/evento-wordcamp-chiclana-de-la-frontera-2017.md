@@ -9,6 +9,7 @@ online: false
 papeles:
   - líder de mesa
   - voluntario
+  - fotógrafo
 web: "https://chiclana.wordcamp.org/2017/"
 thewpworld: "https://thewp.world/events/wordcamp-chiclana-de-la-frontera-2017/"
 ---

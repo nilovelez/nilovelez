@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - organizador
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2018/"
 thewpworld: "https://thewp.world/events/wordcamp-sevilla-2018/"
 ---

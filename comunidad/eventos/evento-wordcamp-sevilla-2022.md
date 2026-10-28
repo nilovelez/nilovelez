@@ -9,6 +9,7 @@ online: false
 papeles:
   - líder de mesa
   - organizador
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2022/"
 thewpworld: "https://thewp.world/events/wordcamp-sevilla-2022/"
 ---

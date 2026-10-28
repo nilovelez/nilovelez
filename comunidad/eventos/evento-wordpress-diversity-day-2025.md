@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - organizador
+  - fotógrafo
 web: "https://events.wordpress.org/valencia/2025/diversityday/"
 thewpworld: "https://thewp.world/events/wordpress-diversity-day-2025/"
 ---

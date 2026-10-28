@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://granada.wordcamp.org/2024/"
 thewpworld: "https://thewp.world/events/wordcamp-granada-2024/"
 ---

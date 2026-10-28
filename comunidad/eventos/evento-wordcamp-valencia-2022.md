@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://valencia.wordcamp.org/2022/"
 thewpworld: "https://thewp.world/events/wordcamp-valencia-2022/"
 ---

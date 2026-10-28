@@ -8,6 +8,7 @@ pais: RS
 online: false
 papeles:
   - organizador
+  - fotógrafo
 web: "https://belgrade.wordcamp.org/2026/"
 thewpworld: "https://thewp.world/events/wordcamp-belgrade-2026/"
 ---

@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://bilbao.wordcamp.org/2024/"
 thewpworld: "https://thewp.world/events/wordcamp-bilbao-2024/"
 ---

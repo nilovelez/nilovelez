@@ -8,6 +8,7 @@ pais: ES
 online: true
 papeles:
   - organizador
+  - fotógrafo
 web: "https://wordpress.org/news/2023/11/state-of-the-word-2023-madrid-spain/"
 thewpworld: "https://thewp.world/events/state-of-the-word-2023/"
 ---

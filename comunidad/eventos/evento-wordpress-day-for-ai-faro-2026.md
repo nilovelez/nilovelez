@@ -8,6 +8,7 @@ pais: PT
 online: false
 papeles:
   - organizador
+  - fotógrafo
 web: "https://events.wordpress.org/faro/2026/wordpress-day-for-ai/"
 thewpworld: "https://thewp.world/events/wordpress-day-for-ai-faro-2026/"
 ---

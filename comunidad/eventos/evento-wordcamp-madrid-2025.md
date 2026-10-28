@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://madrid.wordcamp.org/2025/"
 thewpworld: "https://thewp.world/events/wordcamp-madrid-2025/"
 ---

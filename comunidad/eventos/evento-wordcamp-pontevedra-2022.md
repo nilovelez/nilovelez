@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://pontevedra.wordcamp.org/2022/"
 thewpworld: "https://thewp.world/events/wordcamp-pontevedra-2022/"
 ---

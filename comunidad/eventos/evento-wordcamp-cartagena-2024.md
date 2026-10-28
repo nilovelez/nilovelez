@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://cartagena.wordcamp.org/2024/"
 thewpworld: "https://thewp.world/events/wordcamp-cartagena-2024/"
 ---

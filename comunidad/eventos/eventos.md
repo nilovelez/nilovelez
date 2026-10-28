@@ -12,7 +12,7 @@ Campos (plantilla en `plantillas/plantilla-evento.md`):
 - `fecha`, `fecha_fin`: inicio y fin.
 - `pais`: código de país de dos letras (`ES`, `PT`; `EU` para la WordCamp Europe 2021, online).
 - `online`: casilla.
-- `papeles`: lista con `asistente`, `ponente`, `voluntario`, `organizador`, `líder de mesa`… Los papeles son genéricos; el detalle (co-líder, de qué mesa: traducciones, fotos, TV…) va en el texto de la nota del evento.
+- `papeles`: lista con `asistente`, `ponente`, `voluntario`, `organizador`, `líder de mesa`, `fotógrafo`… Los papeles son genéricos; el detalle (co-líder, de qué mesa: traducciones, fotos, TV…) va en el texto de la nota del evento.
 - `web`: web oficial del evento.
 - `thewpworld`: página del evento en thewp.world.
 

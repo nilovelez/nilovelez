@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - organizador
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2023/"
 thewpworld: "https://thewp.world/events/wordcamp-sevilla-2023/"
 ---

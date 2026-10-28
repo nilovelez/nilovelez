@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://torrelodones.wordcamp.org/2023/"
 thewpworld: "https://thewp.world/events/wordcamp-torrelodones-2023/"
 ---

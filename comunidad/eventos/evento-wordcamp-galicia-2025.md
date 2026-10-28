@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://galicia.wordcamp.org/2025/"
 thewpworld: "https://thewp.world/events/wordcamp-galicia-2025/"
 ---

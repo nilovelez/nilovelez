@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - ponente
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2023/julio/"
 thewpworld:
 ---

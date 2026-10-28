@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://chiclana.wordcamp.org/2020/"
 thewpworld: "https://thewp.world/events/wordcamp-chiclana-2020/"
 ---

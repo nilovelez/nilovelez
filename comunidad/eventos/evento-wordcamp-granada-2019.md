@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - ponente
+  - fotógrafo
 web: "https://granada.wordcamp.org/2019/"
 thewpworld: "https://thewp.world/events/wordcamp-granada-2019/"
 ---

@@ -8,6 +8,7 @@ pais: PT
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://lisboa.wordcamp.org/2025/"
 thewpworld: "https://thewp.world/events/wordcamp-lisboa-2025/"
 ---

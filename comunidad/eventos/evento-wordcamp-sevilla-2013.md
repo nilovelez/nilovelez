@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://sevilla.wordcamp.org/2013/"
 thewpworld: "https://thewp.world/events/wordcamp-sevilla-2013/"
 ---

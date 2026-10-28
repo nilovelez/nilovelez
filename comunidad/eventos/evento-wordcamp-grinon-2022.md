@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://grinon.wordcamp.org/2022/"
 thewpworld: "https://thewp.world/events/wordcamp-grinon-2022/"
 ---

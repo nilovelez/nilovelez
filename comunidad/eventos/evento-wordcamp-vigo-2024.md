@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://vigo.wordcamp.org/2024/"
 thewpworld: "https://thewp.world/events/wordcamp-vigo-2024/"
 ---

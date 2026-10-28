@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - voluntario
+  - fotógrafo
 web: "https://irun.wordcamp.org/2022/"
 thewpworld: "https://thewp.world/events/wordcamp-irun-2022/"
 ---

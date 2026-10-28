@@ -9,6 +9,7 @@ online: false
 papeles:
   - ponente
   - voluntario
+  - fotógrafo
 web: "https://malaga.wordcamp.org/2026/"
 thewpworld: "https://thewp.world/events/wordcamp-malaga-2026/"
 ---

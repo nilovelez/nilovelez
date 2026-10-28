@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - organizador
+  - fotógrafo
 web: "https://madrid.wordcamp.org/2026/"
 thewpworld: "https://thewp.world/events/wordcamp-madrid-2026/"
 ---
