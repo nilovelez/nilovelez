@@ -14,5 +14,6 @@ video_wptv:
 video_youtube: "https://www.youtube.com/watch?v=Ynt_yfgZRF0&t=1653s"
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---

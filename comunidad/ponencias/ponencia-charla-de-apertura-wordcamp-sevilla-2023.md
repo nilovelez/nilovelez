@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2023/10/24/charla-de-apertura/"
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

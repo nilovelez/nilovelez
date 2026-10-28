@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2022/11/22/17-trucos-de-woocommerce-que-me-hab
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

@@ -13,6 +13,7 @@ Campos (plantilla en `plantillas/plantilla-ponencia.md`):
 - `diapositivas`: publicadas en Speaker Deck.
 - `video_wptv`, `video_youtube`: la grabación original en WordPress.tv y su republicación en YouTube.
 - `articulo`: entrada sobre la ponencia en nilovelez.com.
+- `revisada`: casilla; marcada cuando la entrada de la web está completa: publicada, con la descripción buena (lo que hay detrás de la charla, no solo «esta es la charla que di en tal sitio»), el vídeo y las diapositivas. Las fotos son opcionales.
 - `thewpworld`: casilla; marcada si la ponencia está publicada en el perfil de ponente de Nilo en [thewp.world](https://thewp.world/update-profile/speaker-videos/). Solo se pueden añadir ponencias de eventos que estén listados allí.
 
 Importadas de la hoja de Google Sheets de ponencias de Nilo el 26/10/2026.

@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/03/31/por-que-cuando-te-descargas-wordpre
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

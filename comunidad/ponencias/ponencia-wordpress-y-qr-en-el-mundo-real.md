@@ -14,6 +14,7 @@ video_wptv:
 video_youtube: "https://www.youtube.com/watch?v=CESCglz0pEQ"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/wordpress-y-qrs-en-el-mundoreal/"
+revisada:
 thewpworld:
 ---
 

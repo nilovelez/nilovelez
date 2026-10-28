@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/01/13/gravatar-toma-el-control-de-tu-imag
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

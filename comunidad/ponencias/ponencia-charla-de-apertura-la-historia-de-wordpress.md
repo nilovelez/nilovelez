@@ -14,5 +14,6 @@ video_wptv: "https://wordpress.tv/2019/11/28/nilo-velez-charla-de-apertura-la-hi
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---

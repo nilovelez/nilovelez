@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2023/08/16/machete-cortando-wordpress-por-lo-s
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

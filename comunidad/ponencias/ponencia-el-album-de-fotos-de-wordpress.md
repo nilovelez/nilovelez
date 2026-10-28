@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/09/23/el-album-de-fotos-de-wordpress/"
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

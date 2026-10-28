@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2025/07/10/disena-tu-propio-tema-de-bloques-de
 video_youtube: "https://www.youtube.com/watch?v=vfDknAla3do"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/disena-tu-propio-tema-de-bloques-de-wordpress-sin-codigo/"
+revisada:
 thewpworld:
 ---
 

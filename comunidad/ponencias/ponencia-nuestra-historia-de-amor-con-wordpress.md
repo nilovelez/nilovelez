@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2022/01/05/nilo-velez-y-miguel-angel-terron-nu
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

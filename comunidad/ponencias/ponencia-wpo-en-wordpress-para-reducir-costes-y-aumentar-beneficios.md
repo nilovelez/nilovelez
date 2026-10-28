@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2019/10/20/nilo-velez-wpo-en-wordpress-para-re
 video_youtube: "https://www.youtube.com/watch?v=S9mFu1ihYU0"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/wpo-en-wordpress-para-reducir-costes-y-aumentar-beneficios/"
+revisada:
 thewpworld:
 ---
 

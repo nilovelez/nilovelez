@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2019/10/08/the-history-of-wordpress-in-four-mi
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

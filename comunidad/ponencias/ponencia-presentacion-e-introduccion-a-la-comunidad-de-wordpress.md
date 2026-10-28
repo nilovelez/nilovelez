@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2023/07/02/presentacion-e-introduccion-a-la-co
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

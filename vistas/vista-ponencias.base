@@ -37,6 +37,19 @@ views:
       - video_wptv
       - diapositivas
   - type: table
+    name: Por revisar
+    filters:
+      and:
+        - "!articulo.isEmpty()"
+        - revisada != true
+    order:
+      - file.name
+      - fecha
+      - articulo
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
     name: Falta artículo
     filters:
       and:

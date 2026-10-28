@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/10/20/consejos-sobre-teletrabajo-en-menos
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

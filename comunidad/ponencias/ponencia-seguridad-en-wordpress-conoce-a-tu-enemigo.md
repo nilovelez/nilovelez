@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2018/08/02/nilo-velez-seguridad-en-wordpress-c
 video_youtube: "https://www.youtube.com/watch?v=ANjtGePqPEg"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/seguridad-en-wordpress-conoce-a-tu-enemigo/"
+revisada:
 thewpworld:
 ---
 

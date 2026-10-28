@@ -5,6 +5,7 @@
     "fecha_fin": "date",
     "online": "checkbox",
     "papeles": "multitext",
+    "revisada": "checkbox",
     "thewpworld": "checkbox"
   }
 }

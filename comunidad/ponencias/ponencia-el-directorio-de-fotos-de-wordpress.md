@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/07/10/el-directorio-de-fotos-de-wordpress
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

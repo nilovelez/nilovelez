@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2023/08/23/conociendo-a-dolly-de-la-napa-al-pl
 video_youtube: "https://www.youtube.com/watch?v=5dqst1aNDfE"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/conociendo-a-dolly-de-la-napa-al-plugin/"
+revisada:
 thewpworld:
 ---
 

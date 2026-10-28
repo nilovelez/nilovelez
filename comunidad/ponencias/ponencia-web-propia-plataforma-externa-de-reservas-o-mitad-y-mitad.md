@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/10/31/web-propia-plataforma-externa-de-re
 video_youtube: "https://www.youtube.com/watch?v=dhHSNdKsuJ4"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/web-propia-plataforma-externa-de-reservas-o-mitad-y-mitad/"
+revisada:
 thewpworld: true
 ---
 

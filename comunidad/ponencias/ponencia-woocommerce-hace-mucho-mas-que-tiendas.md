@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2024/11/24/woocommerce-hace-mucho-mas-que-tien
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

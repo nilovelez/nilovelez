@@ -14,6 +14,7 @@ video_wptv:
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

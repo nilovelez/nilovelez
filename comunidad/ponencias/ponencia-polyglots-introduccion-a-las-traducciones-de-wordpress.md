@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2018/11/26/nilo-velez-polyglots-introduccion-a
 video_youtube: "https://www.youtube.com/watch?v=9KtlFY7OiGY"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/polyglots-introduccion-a-las-traducciones-de-wordpress/"
+revisada:
 thewpworld:
 ---
 

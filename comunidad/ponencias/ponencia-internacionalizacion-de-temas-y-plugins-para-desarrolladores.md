@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2018/10/30/internacionalizacion-de-temas-y-plu
 video_youtube: "https://www.youtube.com/watch?v=riFVA3WDuTY"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/internacionalizacion-de-temas-y-plugins-para-desarrolladores/"
+revisada:
 thewpworld:
 ---
 

@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2023/11/05/esta-no-es-la-charla-de-seguridad-q
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2025/10/05/playground-la-mejor-herramienta-jam
 video_youtube: "https://www.youtube.com/watch?v=XY6aMvYen8Q"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/playground-la-mejor-herramienta-jamas-inventada-para-ensenar-wordpress/"
+revisada:
 thewpworld:
 ---
 

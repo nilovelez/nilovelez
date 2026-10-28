@@ -14,6 +14,7 @@ video_wptv:
 video_youtube:
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/como-dar-el-salto-de-usar-wordpress-a-hacer-webs-con-wordpress/"
+revisada:
 thewpworld:
 ---
 

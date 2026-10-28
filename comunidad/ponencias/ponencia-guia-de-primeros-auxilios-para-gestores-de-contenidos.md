@@ -14,6 +14,7 @@ video_wptv:
 video_youtube:
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/guia-de-primeros-auxilios-para-gestores-de-contenidos/"
+revisada:
 thewpworld:
 ---
 

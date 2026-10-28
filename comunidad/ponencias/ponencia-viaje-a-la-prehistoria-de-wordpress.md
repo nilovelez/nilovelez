@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2019/12/23/nilo-velez-viaje-a-la-prehistoria-d
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

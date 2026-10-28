@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2026/05/19/the-power-of-open-what-wordpress-of
 video_youtube:
 imagen_destacada:
 articulo:
+revisada:
 thewpworld:
 ---
 

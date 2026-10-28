@@ -14,6 +14,7 @@ video_wptv: "https://wordpress.tv/2025/06/02/eventos-wordpress-de-bajo-coste-y-a
 video_youtube: "https://www.youtube.com/watch?v=fRdrHFV7X_k"
 imagen_destacada:
 articulo: "https://www.nilovelez.com/ponencias/eventos-wordpress-de-bajo-coste-y-alto-impacto/"
+revisada:
 thewpworld:
 ---
 
