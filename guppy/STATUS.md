@@ -6,6 +6,8 @@ The repo has its folder structure, Obsidian-compatible notes, templates and Base
 
 Newest entries first. One per work session, brief.
 
+- 2026-10-28 (late evening): Added three talks (WordPress Day Sevilla 2025 welcome, Summer Photo Contest opening, WordCamp Sevilla 2024 teams session) and the Summer Photo Contest 2025 event. Reviewed Nilo's new WordPress.tv links on four older talks.
+
 - 2026-10-28 (evening): Closed the Playground talk note after Nilo rewrote its post. Created the gallery template and 63 gallery notes from his Flickr albums, 7 new events (WordPress Days and Málaga meetups, dates from their official pages) and the `fotógrafo` role on 63 events. 13 orphan WordCamp albums discarded. Buffer schedules set by Nilo; old talks reserved for gaps in the queue.
 
 - 2026-10-28 (afternoon): Checked the Buffer MCP (three channels, free plan limits, default queue behavior) and documented the planned sharing flow in `elementos.md`. Reviewed and closed the WordCamp Portugal 2026 talk note: format set, marked `revisada`, draft removed. First real run of the flow: its post was queued in Buffer on Bluesky, LinkedIn and X (image, text and URL).

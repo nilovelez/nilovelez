@@ -16,6 +16,8 @@ views:
     sort:
       - property: fecha
         direction: DESC
+      - property: file.name
+        direction: DESC
   - type: table
     name: Sin fecha
     filters:

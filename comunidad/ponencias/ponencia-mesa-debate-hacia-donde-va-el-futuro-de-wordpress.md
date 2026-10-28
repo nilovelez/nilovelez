@@ -4,7 +4,7 @@ titulo: "Mesa debate: ¿Hacia dónde va el futuro de WordPress?"
 formato: mesa redonda
 fecha: 2019-04-06
 evento: "[[evento-wordcamp-madrid-2019]]"
-lugar: "WordCamp Madrid 2019"
+lugar: WordCamp Madrid 2019
 idioma: es
 coponentes:
   - Álvaro Gómez
@@ -14,10 +14,10 @@ coponentes:
   - Iván Expósito
   - José Ramón Padrón
   - Roberto Vázquez «Weiko»
-web_sesion: "https://madrid.wordcamp.org/2019/session/mesa-debate/"
+web_sesion: https://madrid.wordcamp.org/2019/session/mesa-debate/
 diapositivas_original:
 diapositivas:
-video_wptv:
+video_wptv: https://wordpress.tv/2019/04/27/mesa-debate-hacia-donde-va-el-futuro-de-wordpress/
 video_youtube:
 imagen_destacada:
 articulo:
