@@ -6,7 +6,7 @@ Lo que Nilo tiene que confirmar o completar tras importar la hoja de ponencias y
 
 Ni la hoja ni las webs enlazadas traen descripción para estas; dependen de lo que tengas tú.
 
-- [ ] [[ponencia-aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones]]
+- [x] [[ponencia-aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones]]  esta ya tiene la descripción y está preperada para subir
 - [ ] [[ponencia-bienvenida-y-presentacion-de-la-comunidad-wordpress]]
 - [ ] [[ponencia-charla-de-apertura-la-historia-de-wordpress]]
 - [ ] [[ponencia-charla-de-apertura-wordcamp-sevilla-2023]]
@@ -17,11 +17,11 @@ Ni la hoja ni las webs enlazadas traen descripción para estas; dependen de lo q
 - [ ] [[ponencia-presentacion-e-introduccion-a-la-comunidad-de-wordpress]]
 - [ ] [[ponencia-presentador-de-la-wordcamp-sevilla-2020]]
 - [ ] [[ponencia-seguro-que-necesitas-google-analytics]]
-- [ ] [[ponencia-the-power-of-open-what-wordpress-offers-beyond-development]]
+- [x] [[ponencia-the-power-of-open-what-wordpress-offers-beyond-development]] esta ya está terminada
 
 ## Speaker Deck
 
 Tienen diapositivas en Drive pero no en Speaker Deck. Cuando las subas, pásame el enlace o ponlo en `diapositivas`:
 
-- [ ] [[ponencia-guia-de-supervivencia-para-wordcamps]]
-- [ ] [[ponencia-monta-tu-entorno-de-trabajo-para-wordpress-con-local-by-flywheel]]
+- [x] [[ponencia-guia-de-supervivencia-para-wordcamps]] - añadida a la ficha
+- [x] [[ponencia-monta-tu-entorno-de-trabajo-para-wordpress-con-local-by-flywheel]]
