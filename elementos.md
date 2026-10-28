@@ -73,6 +73,18 @@ El plan de rediseño (`rediseno-nilovelez.md`) es un subproyecto de esta secció
 - LinkedIn y similares.
 - Bios para terceros (charlas, eventos).
 
+### Difusión en redes con Buffer
+
+Último paso de publicar una pieza: dejarla programada en Buffer (Bluesky, LinkedIn y X) y que la cola la dosifique. En vez de fijar cuándo sale cada cosa, se define un ritmo (un par de huecos a la semana por canal) y se van echando publicaciones; si un día salen 5 o 6 de golpe, se reparten durante el mes en lugar de salir todas hoy.
+
+- **Flujo previsto:** Nilo avisa de que una pieza está lista, y Claude propone el texto (título como base y un gancho) y lo programa con la imagen destacada y la URL de la pieza. El texto se enseña a Nilo antes de programar. Más adelante puede ser una skill («ya está lista, mándala a Buffer»).
+- **Mismo contenido en las tres redes**, con una publicación por canal.
+- **Formato base:** imagen adjunta, texto y URL en el texto. La alternativa es una tarjeta de enlace (la vista previa de la web), pero no se puede combinar con imagen adjunta y X no admite tarjeta configurable. Queda abierto según cómo trate cada red el alcance; solo cambiaría el paso que construye la publicación.
+- **Por defecto**, una publicación sin fecha va a la cola y toma el siguiente hueco del horario del canal. También existen «siguiente hueco» (adelantándose a la cola) y «publicar ya».
+- **Plan gratuito de Buffer:** 3 canales (los tres en uso), 10 publicaciones programadas **por canal**, 1 hilo programado a la vez, 100 ideas y 1 clave de API. Suficiente para este uso.
+- **Pendiente:** ajustar los horarios de cada canal (ahora X solo tiene el lunes a las 11:14).
+- Los borradores de redes y la cola viven en Buffer, no en el repo.
+
 ## Decisiones de formato y estructura
 
 - **Un archivo Markdown por elemento**, con datos estructurados en la cabecera (frontmatter YAML) y texto libre debajo. Un campo vacío indica algo pendiente.
