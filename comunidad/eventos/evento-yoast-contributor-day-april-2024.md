@@ -7,7 +7,7 @@ fecha_fin: 2024-04-18
 pais:
 online: true
 papeles:
-  - asistente
+  - líder de mesa
 web: https://yoast.com/about-us/events/yoast-contributor-day-2024-april-edition/
 thewpworld: https://thewp.world/events/yoast-contributor-day-april-2024/
 ---

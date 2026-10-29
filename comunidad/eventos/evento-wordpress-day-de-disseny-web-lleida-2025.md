@@ -8,6 +8,7 @@ pais: ES
 online: false
 papeles:
   - fotógrafo
+  - organizador
 web: https://events.wordpress.org/lleida/2025/disseny/
 thewpworld:
 ---

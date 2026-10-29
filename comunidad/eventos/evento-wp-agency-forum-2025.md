@@ -7,7 +7,7 @@ fecha_fin: 2025-10-15
 pais: ES
 online: false
 papeles:
-  - asistente
+  - fotógrafo
 web: https://wpagencyforum.com/
 thewpworld: https://thewp.world/events/wp-agency-forum-2025/
 ---

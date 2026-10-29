@@ -7,7 +7,6 @@ fecha_fin: 2025-03-01
 pais: CR
 online: true
 papeles:
-  - asistente
 web: https://events.wordpress.org/latam/2025/women-latam/
 thewpworld: https://thewp.world/events/voces-que-inspiran-womens-day-2025/
 ---

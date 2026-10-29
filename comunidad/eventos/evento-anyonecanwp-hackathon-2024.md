@@ -7,7 +7,6 @@ fecha_fin: 2024-10-11
 pais:
 online: true
 papeles:
-  - asistente
 web: https://anyonecanwp.com/
 thewpworld: https://thewp.world/events/anyonecanwp-hackathon-2024/
 ---
