@@ -10,4 +10,3 @@ Ni la hoja ni las webs enlazadas traen descripción para estas; dependen de lo q
 - [ ] [[ponencia-charla-de-apertura-la-historia-de-wordpress]] (sin descripción, solo notas)
 - [ ] [[ponencia-charla-de-apertura-wordcamp-sevilla-2023]] (descripción provisional)
 - [ ] [[ponencia-presentacion-e-introduccion-a-la-comunidad-de-wordpress]] (descripción provisional)
-- [ ] [[ponencia-seguro-que-necesitas-google-analytics]]
