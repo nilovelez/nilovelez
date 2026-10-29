@@ -83,11 +83,13 @@ El plan de rediseño (`rediseno-nilovelez.md`) es un subproyecto de esta secció
 - **Por defecto**, una publicación sin fecha va a la cola y toma el siguiente hueco del horario del canal. También existen «siguiente hueco» (adelantándose a la cola) y «publicar ya».
 - **Plan gratuito de Buffer:** 3 canales (los tres en uso), 10 publicaciones programadas **por canal**, 1 hilo programado a la vez, 100 ideas y 1 clave de API. Suficiente para este uso.
 - **Primera vez:** la ponencia de WordCamp Portugal 2026 (28/10/2026). LinkedIn con un texto largo; X y Bluesky con uno corto. Imagen destacada adjunta y URL en el texto, en cola con el horario por defecto de cada canal.
-- **Charlas antiguas como reserva:** no se comparten en redes al publicarlas. Se guardan para los huecos en que Nilo lleve tiempo sin publicar; mientras haya publicaciones nuevas (la última ponencia, la siguiente que llegue), la cola se llena con ellas.
+- **Charlas antiguas como reserva:** no se comparten en redes al publicarlas. Se guardan para los huecos en que Nilo lleve tiempo sin publicar; mientras haya publicaciones nuevas (la última ponencia, la siguiente que llegue), la cola se llena con ellas. Son contenido atemporal, válido y enterrado en el blog, y compartirlo es también una forma de promoción y de enseñar lo que Nilo ha hecho.
 - **Horarios (28/10/2026):** X y Bluesky, tres huecos a la semana; LinkedIn, dos. Con el tope de 10 programadas por canal, la cola de X y Bluesky cubre unas 3 semanas y la de LinkedIn unas 5. Los horarios se cambian en Buffer; esta nota solo recoge el ritmo.
 - Los borradores de redes y la cola viven en Buffer, no en el repo.
 
 ## Decisiones de formato y estructura
+
+- **Primero el contenido, después la estructura de la web:** se va publicando contenido (ponencias, galerías, proyectos) antes de rediseñar. Con más contenido publicado hay mucho más contexto sobre el tipo de cosas que hace Nilo y su tono, y eso facilita el rediseño y dar visibilidad a lo que interese, en vez de crear una estructura y luego adaptar el contenido a ella.
 
 - **Un archivo Markdown por elemento**, con datos estructurados en la cabecera (frontmatter YAML) y texto libre debajo. Un campo vacío indica algo pendiente.
 - **Compatible con Obsidian, y el repo entero es la bóveda.** El README del perfil es una nota más. Las carpetas que no son notas (código del tema, scripts) se excluyen en `.obsidian/app.json` (`userIgnoreFilters`).
