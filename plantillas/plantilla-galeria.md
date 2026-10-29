@@ -4,8 +4,9 @@ titulo:
 evento:
 lugar:
 fecha:
-album:
-autoria:
+album_oficial:
+album_propio:
 portada:
 articulo:
+revisada:
 ---
