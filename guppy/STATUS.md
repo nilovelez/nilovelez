@@ -6,7 +6,7 @@ The repo has its folder structure, Obsidian-compatible notes, templates and Base
 
 Newest entries first. One per work session, brief.
 
-- 2026-10-29: Closed the descriptions of five talks (Guía de supervivencia, Concurso eCommerce, Directorio de fotos, Presentador Sevilla 2020, Local by Flywheel) and published Google Analytics and Local by Flywheel on the web. Reorganized the content model: events and talks moved to the root, new `wordpress/` folder with teams and 31 communities, event as the hub (web post fields moved from galleries to events), galleries reduced to album links, new event category "Evento externo" and events for Mobile Week Alcalá and WP en la nube.
+- 2026-10-29: Closed the descriptions of five talks (Guía de supervivencia, Concurso eCommerce, Directorio de fotos, Presentador Sevilla 2020, Local by Flywheel) and published Google Analytics and Local by Flywheel on the web. Reorganized the content model: events and talks moved to the root, new `wordpress/` folder with teams and 31 communities, event as the hub (web post fields moved from galleries to events), galleries reduced to album links, new event category "Evento externo" and events for Mobile Week Alcalá and WP en la nube, and a graph color for communities. Next session: start the event posts of the photo section.
 
 - 2026-10-28 (late night): Ran a test of aggregate stats from events and talks (WordCamps and WordPress events only, no meetups): the data is patchy by design and will be filled in over time. Nilo filled `categoria` in 21 events; created the Dénia remote-work WordPress Day event and linked its talk. Cleaned up the review checklist.
 

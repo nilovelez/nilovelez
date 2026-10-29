@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "sevilla",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 5408992
+      }
+    },
+    {
+      "query": "path:wordpress/comunidades",
+      "color": {
+        "a": 1,
+        "rgb": 7109631
       }
     },
     {
@@ -89,5 +96,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.18475411006569037,
-  "close": false
+  "close": true
 }
