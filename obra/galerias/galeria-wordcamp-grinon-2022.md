@@ -7,6 +7,4 @@ fecha: 2022-11-18
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720312854559"
 album_propio:
 portada:
-articulo: https://www.nilovelez.com/foto-video/wordcamp-grinon-2022/
-revisada:
 ---

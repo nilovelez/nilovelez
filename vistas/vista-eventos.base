@@ -1,7 +1,7 @@
 filters:
   and:
     - tipo == "evento"
-    - file.inFolder("comunidad/eventos")
+    - file.inFolder("eventos")
 views:
   - type: table
     name: Todos

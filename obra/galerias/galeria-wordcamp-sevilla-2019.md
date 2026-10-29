@@ -7,6 +7,4 @@ fecha: 2019-10-04
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720317138294"
 album_propio:
 portada:
-articulo:
-revisada:
 ---

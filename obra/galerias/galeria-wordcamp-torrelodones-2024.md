@@ -7,6 +7,4 @@ fecha: 2024-03-23
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720315616106"
 album_propio:
 portada:
-articulo:
-revisada:
 ---

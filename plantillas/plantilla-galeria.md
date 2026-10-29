@@ -7,6 +7,4 @@ fecha:
 album_oficial:
 album_propio:
 portada:
-articulo:
-revisada:
 ---

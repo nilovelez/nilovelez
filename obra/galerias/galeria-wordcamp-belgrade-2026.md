@@ -7,6 +7,4 @@ fecha: 2026-09-18
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720335691937"
 album_propio:
 portada:
-articulo:
-revisada:
 ---

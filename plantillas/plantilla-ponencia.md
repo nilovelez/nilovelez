@@ -4,6 +4,7 @@ titulo:
 formato:
 fecha:
 evento:
+comunidad:
 lugar:
 idioma:
 coponentes:

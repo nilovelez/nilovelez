@@ -53,7 +53,9 @@ README.md                    ← README del perfil de GitHub
 CLAUDE.md
 identidad/   bio/, imagen/, cuentas.md
 trayectoria/ etapas/, reconocimientos/
-comunidad/   equipos/, eventos/, ponencias/
+wordpress/   equipos/, comunidades/
+eventos/     un archivo por evento
+ponencias/   un archivo por vez que se da una ponencia
 obra/        proyectos/, galerias/, entrevistas/, articulos/
 web/         tema/ (código, excluido en Obsidian), paginas/, mapa.md, rediseno.md
 vistas/      tablas de Bases (.base) para seguimiento y consultas

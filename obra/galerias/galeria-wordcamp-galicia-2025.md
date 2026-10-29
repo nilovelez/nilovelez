@@ -7,6 +7,4 @@ fecha: 2025-10-03
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720329480030"
 album_propio:
 portada:
-articulo:
-revisada:
 ---

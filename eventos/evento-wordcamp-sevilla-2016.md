@@ -1,0 +1,17 @@
+---
+tipo: evento
+titulo: WordCamp Sevilla 2016
+categoria: WordCamp
+comunidad: "[[comunidad-wordpress-sevilla]]"
+fecha: 2016-09-30
+fecha_fin: 2016-10-02
+pais: ES
+online: false
+papeles:
+  - voluntario
+web: https://sevilla.wordcamp.org/2016/
+thewpworld: https://thewp.world/events/wordcamp-sevilla-2016/
+imagen_destacada:
+articulo:
+revisada:
+---

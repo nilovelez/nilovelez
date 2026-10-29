@@ -1,7 +1,7 @@
 filters:
   and:
     - tipo == "ponencia"
-    - file.inFolder("comunidad/ponencias")
+    - file.inFolder("ponencias")
 views:
   - type: table
     name: Todas

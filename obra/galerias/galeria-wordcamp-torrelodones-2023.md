@@ -7,6 +7,4 @@ fecha: 2023-03-11
 album_oficial: "https://www.flickr.com/photos/wordpressphotos/albums/72177720312737872"
 album_propio:
 portada:
-articulo:
-revisada:
 ---
