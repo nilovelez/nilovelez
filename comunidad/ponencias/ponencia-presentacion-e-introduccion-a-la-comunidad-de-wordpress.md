@@ -18,4 +18,4 @@ revisada:
 thewpworld:
 ---
 
-Charla de presentación del WordPress day Sevilla 2023
+Charla de presentación del WordPress Day Sevilla 2023, celebrado en julio. Qué es WordPress y qué es su comunidad.

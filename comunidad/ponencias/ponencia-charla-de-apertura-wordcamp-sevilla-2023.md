@@ -4,7 +4,7 @@ titulo: "Charla de apertura WordCamp Sevilla 2023"
 formato:
 fecha: 2023-10-21
 evento: "[[evento-wordcamp-sevilla-2023]]"
-lugar: "WordPress day Sevilla 2023"
+lugar: "WordCamp Sevilla 2023"
 idioma: es
 coponentes:
 web_sesion:
@@ -18,4 +18,4 @@ revisada:
 thewpworld:
 ---
 
-Charla de apertura de la WordCamp Sevilla 2023
+Charla de apertura de la WordCamp Sevilla 2023, un evento planteado casi como un contributor day. Presentamos los equipos de la comunidad WordPress y explicamos qué es la comunidad y cómo se participa en ella.

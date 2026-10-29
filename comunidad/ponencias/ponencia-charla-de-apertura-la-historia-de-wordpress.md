@@ -17,3 +17,7 @@ articulo:
 revisada:
 thewpworld:
 ---
+
+## Pendiente
+
+Falta una descripción de verdad. La charla es la historia de WordPress contada en primera persona, a base de fragmentos de capturas de vídeo de máquinas virtuales con ordenadores de la época, ejecutando cada una de las versiones de WordPress. Nilo conserva la carpeta con todas las versiones que usó. Quiere contar bien los problemas que fue encontrando. Descripción larga, para escribirla con calma buscando el vídeo.
