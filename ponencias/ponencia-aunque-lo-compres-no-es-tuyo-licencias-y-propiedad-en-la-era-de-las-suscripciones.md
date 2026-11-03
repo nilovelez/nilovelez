@@ -9,14 +9,14 @@ lugar: "WordCamp Valencia 2026"
 idioma: es
 coponentes:
 web_sesion: "https://valencia.wordcamp.org/2026/session/aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones/"
-diapositivas_original:
+diapositivas_original: "https://docs.google.com/presentation/d/1A2dPKOY1ldelJ3pLgevUW2SUgXecVug314NqDE3hXMc/edit?usp=sharing"
 diapositivas: "https://speakerdeck.com/nilovelez/aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones"
-video_wptv:
-video_youtube:
-imagen_destacada:
-articulo:
-revisada:
-thewpworld:
+video_wptv: "https://wordpress.tv/2026/11/03/aunque-lo-compres-no-es-tuyo-licencias-y-propiedad-en-la-era-de-las-suscripciones/"
+video_youtube: "https://www.youtube.com/watch?v=nGLu7akwKDE"
+imagen_destacada: "https://www.nilovelez.com/wp-content/uploads/2026/11/2026-10-31-WCValencia26-Aunque-lo-compres-no-es-tuyo.jpg"
+articulo: "https://www.nilovelez.com/ponencias/aunque-lo-compres-no-es-tuyo/"
+revisada: true
+thewpworld: true
 ---
 
 Compramos libros, juegos, películas y cada vez más servicios digitales, pero ¿qué significa realmente comprar algo cuando lo que recibimos es una licencia de uso o el acceso a una plataforma?
@@ -31,9 +31,10 @@ Fuente: https://valencia.wordcamp.org/2026/session/aunque-lo-compres-no-es-tuyo-
 
 El borrador de la entrada está en la web (entrada 3219), con las diapositivas incrustadas.
 
-- [ ] Actualizar la fecha en Speaker Deck (no deja poner fechas futuras)
-- [ ] Conseguir la imagen destacada y añadirla a la entrada
-- [ ] Guardar el vídeo, subirlo a YouTube e incrustarlo en la entrada
-- [ ] Publicar la entrada
-- [ ] Publicarla en redes sociales
-- [ ] Marcarla como revisada
+- [x] Actualizar la fecha en Speaker Deck
+- [x] Conseguir la imagen destacada y añadirla a la entrada
+- [x] Guardar el vídeo y subirlo a YouTube
+- [ ] Incrustar el vídeo en la entrada
+- [x] Publicar la entrada
+- [x] Publicarla en redes sociales
+- [x] Marcarla como revisada
