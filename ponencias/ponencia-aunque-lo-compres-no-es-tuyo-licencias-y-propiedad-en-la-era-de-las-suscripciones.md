@@ -29,12 +29,10 @@ Fuente: https://valencia.wordcamp.org/2026/session/aunque-lo-compres-no-es-tuyo-
 
 ## Pendiente
 
-El borrador de la entrada está en la web (entrada 3219), con las diapositivas incrustadas.
-
 - [x] Actualizar la fecha en Speaker Deck
 - [x] Conseguir la imagen destacada y añadirla a la entrada
 - [x] Guardar el vídeo y subirlo a YouTube
-- [ ] Incrustar el vídeo en la entrada
+- [x] Incrustar el vídeo en la entrada
 - [x] Publicar la entrada
 - [x] Publicarla en redes sociales
 - [x] Marcarla como revisada
