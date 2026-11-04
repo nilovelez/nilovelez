@@ -70,7 +70,7 @@ Publicar una pieza son tareas independientes que se desbloquean según llega cad
 
 ## Obsidian y git
 
-Nilo trabaja desde varios equipos: Claude corre en Marcianito, un equipo de casa, y Nilo puede clonar el repo en otros (el portátil), editar en Obsidian, incluso sin conexión, y hacer push. Para que las versiones no se crucen:
+Nilo trabaja desde varios equipos: Claude corre en un equipo de casa, y Nilo puede clonar el repo en otros (el portátil), editar en Obsidian, incluso sin conexión, y hacer push. Para que las versiones no se crucen:
 
 - **Al empezar una sesión o cuando Nilo avise de cambios, `git pull`** antes de tocar nada. Mirar también `git status` para no pisar cambios sin guardar.
 - **Revisar los cambios de Nilo** con `git diff` sobre la versión anterior: formatos de los campos, fechas, erratas, enlaces `[[ ]]` rotos, nombres de archivo que no sigan la convención. Si algo no cuadra, preguntar; las correcciones se proponen, no se aplican sin más.
