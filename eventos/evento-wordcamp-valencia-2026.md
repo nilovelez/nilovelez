@@ -15,7 +15,7 @@ web: https://valencia.wordcamp.org/2026/
 thewpworld: https://thewp.world/events/wordcamp-valencia-2026/
 imagen_destacada: "https://www.nilovelez.com/wp-content/uploads/2026/11/wordcamp-valencia-2026.jpg"
 articulo: "https://www.nilovelez.com/foto-video/fotos-de-la-wordcamp-valencia-2026/"
-revisada:
+revisada: true
 ---
 
 Otra WordCamp en la que repetimos sitio: por quinta vez, La Petxina. Esta vez estuve como ponente con «[Aunque lo compres, no es tuyo](https://www.nilovelez.com/ponencias/aunque-lo-compres-no-es-tuyo/)» y, como es habitual, como voluntario de fotografía.
@@ -28,5 +28,4 @@ Por mi parte, llevé una mesa conjunta del WordPress Photo Directory y de WordPr
 
 ## Pendiente
 
-- [ ] Añadir el enlace a las propuestas y al resumen del Contributor Day, cuando estén disponibles
-- [ ] Insertar la galería de fotos en la entrada
+- [x] Insertar la galería de fotos en la entrada
