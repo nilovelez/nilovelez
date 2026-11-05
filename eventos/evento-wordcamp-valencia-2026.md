@@ -13,8 +13,8 @@ papeles:
   - fotógrafo
 web: https://valencia.wordcamp.org/2026/
 thewpworld: https://thewp.world/events/wordcamp-valencia-2026/
-imagen_destacada:
-articulo:
+imagen_destacada: "https://www.nilovelez.com/wp-content/uploads/2026/11/wordcamp-valencia-2026.jpg"
+articulo: "https://www.nilovelez.com/foto-video/fotos-de-la-wordcamp-valencia-2026/"
 revisada:
 ---
 
