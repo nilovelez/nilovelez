@@ -29,4 +29,4 @@ Por mi parte, llevé una mesa conjunta del WordPress Photo Directory y de WordPr
 ## Pendiente
 
 - [ ] Añadir el enlace a las propuestas y al resumen del Contributor Day, cuando estén disponibles
-- [ ] Añadir la galería de fotos (la de Valencia 2026 aún no existe)
+- [ ] Insertar la galería de fotos en la entrada
