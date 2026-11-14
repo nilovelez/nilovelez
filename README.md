@@ -14,7 +14,7 @@ This account is where I develop most of my projects, along with small tools for 
 
 - **[PDF Diva](https://pdfdiva.nilovelez.com/)**: a PDF viewer with presenter view, for everyone who's been told "my slides are a PDF" five minutes before a talk. ([code](https://github.com/nilovelez/pdf-diva))
 - **[LadyQR](https://ladyqr.nilovelez.com/)**: QR codes made entirely in your browser, as you type. Nothing is uploaded. ([code](https://github.com/nilovelez/ladyqr))
-- **[Machete](https://wordpress.org/plugins/machete/)**: the toolbox I kept rebuilding on every WordPress site, turned into a plugin.
-- **[Intentionally Blank](https://wordpress.org/themes/intentionally-blank/)**: a WordPress theme that does as little as possible, on purpose.
+- **[Machete](https://wordpress.org/plugins/machete/)**: the toolbox I kept rebuilding on every WordPress site, turned into a plugin. ([code](https://github.com/nilovelez/machete))
+- **[Intentionally Blank](https://wordpress.org/themes/intentionally-blank/)**: a WordPress theme that does as little as possible, on purpose. ([code](https://github.com/nilovelez/intentionally-blank))
 
 [Personal Website](https://www.nilovelez.com/) · [WordPress.org profile](https://profiles.wordpress.org/nilovelez/) · [WordPress talks in WordPressTV](https://wordpress.tv/speakers/nilo-velez/)
