@@ -51,3 +51,32 @@ views:
     sort:
       - property: fecha
         direction: DESC
+  - type: table
+    name: Fotógrafo sin publicar
+    filters:
+      and:
+        - papeles.contains("fotógrafo")
+        - articulo.isEmpty()
+    order:
+      - file.name
+      - fecha
+      - categoria
+      - articulo
+    sort:
+      - property: fecha
+        direction: DESC
+  - type: table
+    name: Fotógrafo por revisar
+    filters:
+      and:
+        - papeles.contains("fotógrafo")
+        - "!articulo.isEmpty()"
+        - revisada != true
+    order:
+      - file.name
+      - fecha
+      - articulo
+      - revisada
+    sort:
+      - property: fecha
+        direction: DESC

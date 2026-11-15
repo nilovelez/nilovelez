@@ -1,14 +1,14 @@
 ---
 tipo: ponencia
-titulo: "Esta no es la charla de seguridad que quieres oír"
+titulo: Esta no es la charla de seguridad que quieres oír
 formato:
 fecha: 2024-05-23
 evento:
-comunidad:
-lugar: "WordPress Sevilla Meetup"
+comunidad: "[[comunidad-wordpress-sevilla]]"
+lugar: WordPress Sevilla Meetup
 idioma: es
 coponentes:
-web_sesion: "https://www.meetup.com/es-es/wordpress-sevilla/events/301156297/"
+web_sesion: https://www.meetup.com/es-es/wordpress-sevilla/events/301156297/
 diapositivas_original:
 diapositivas:
 video_wptv:
