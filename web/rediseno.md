@@ -8,7 +8,7 @@ Este documento resume todas las decisiones tomadas en la fase de planificación 
 - WordPress con un **tema a medida de bloques (full site editing)**. Sin custom post types.
 - Idioma: español de España. Tono: primera persona, cercano, con algo de humor ("culo inquieto", "cacharreo"), sin exageraciones.
 - Nilo usa "moderador de traductores" en vez de "GTE": es lo que entiende cualquiera. No sustituirlo por jerga interna.
-- La web actual bloquea el acceso automatizado (robots), así que el análisis se hizo con lo indexado en buscadores.
+- Por comprobar: una sesión anterior anotó que la web actual bloquea el acceso automatizado (robots) y analizó lo indexado en buscadores. Nilo lo duda, así que lo de «Otros detalles técnicos detectados» no está verificado.
 
 ## Menú (Decidido)
 
@@ -23,7 +23,7 @@ WordPress · Ponencias · Fotografía · Proyectos · Herramientas · Blog
 
 ## Modelo de contenidos (Decidido)
 
-- **Cada sección es una categoría de entradas** (blog, ponencias, fotografía, proyectos). Ejemplo: `/ponencias/` es el archivo de la categoría.
+- **Cada sección es una categoría de entradas** (blog, ponencias, fotografía, proyectos). Ejemplo: `/ponencias/` es el archivo de la categoría. La categoría `blog` es la categoría por defecto: una entrada sin otra categoría es del blog. La categoría Fotografía tiene el slug `foto-video`, para no cambiar las URLs ya publicadas.
 - **Las etiquetas son transversales**: "accesibilidad" puede relacionar una ponencia con una entrada del blog.
 - **Una sola categoría por entrada**; lo transversal va por etiquetas.
 - **Proyectos también son entradas** (categoría `proyectos`), no páginas, para que usen etiquetas. La fecha de publicación solo sirve para ordenar; no se muestra.
@@ -37,7 +37,7 @@ WordPress · Ponencias · Fotografía · Proyectos · Herramientas · Blog
 
 Es el "Sobre mí". Un bloque por sección, con 2–3 frases, un elemento vivo (consulta) y un enlace. **El blog no aparece en la portada.**
 
-1. **Presentación**: webs desde 1998, comunidad WordPress desde 2011, colaborador patrocinado por Hostinger. (Pendiente: una línea de trayectoria profesional; LinkedIn no se pudo leer.)
+1. **Presentación**: webs desde 1998, comunidad WordPress desde 2011, colaborador patrocinado por Hostinger. (Pendiente: una línea de trayectoria profesional; la trayectoria está en `trayectoria/etapas/`.)
 2. **WordPress**: traducción, Photo Directory, WordPress.tv y eventos, en versión corta.
 3. **Ponencias**: frase de trayectoria + la próxima o última charla.
 4. **Fotografía**: la última sesión.
@@ -51,11 +51,13 @@ Es el "Sobre mí". Un bloque por sección, con 2–3 frases, un elemento vivo (c
 >
 > Hoy soy colaborador patrocinado por Hostinger: me pagan por hacer que WordPress funcione mejor desde dentro. Trabajo sobre todo en traducción, fotografía, WordPress.tv y comunidad.
 
+**Ojo**: lo aprobado es el tono general, no esa expresión. No presentar las contribuciones como algo que hace porque le pagan; hay que reescribir esa frase.
+
 > **Lo que hago en WordPress**
 > - Soy moderador de los traductores de WordPress al español de España: cada día reviso y traduzco WordPress, temas y plugins, y he contribuido a más de 3.500 proyectos.
 > - Soy team rep del Photo Directory, el banco de fotos libres de WordPress.org, donde he publicado más de 850 fotos.
 > - Formo parte del equipo de WordPress.tv.
-> - Organizo eventos: WordCamp Sevilla, WordPress Day Sevilla y el equipo de fotografía de la WordCamp Europe, entre otros. En muchos más hago de voluntario, fotógrafo o mentor.
+> - Organizo eventos: WordCamp Sevilla, WordPress Day Sevilla y la WordCamp Europe 2027, de la que soy uno de los lead organizers; hasta 2026 organicé durante cinco años su equipo de fotografía, entre otros. En muchos más hago de voluntario, fotógrafo o mentor.
 
 > **Cuando no estoy con WordPress**
 > Sigo siendo un culo inquieto: hago fotos, edito vídeo y cacharreo con lo que pillo, desde la impresión 3D a la carpintería. Desde finales de los 90 mantengo la Kite Plan Base, el mayor archivo de planos de cometas del mundo.
@@ -75,14 +77,14 @@ Estructura:
    - Hostinger: https://www.hostinger.com/blog/nilo-velez
    - Yoast Care Fund: https://yoast.com/community/care-fund/recipients/nilo-velez/
    - Podcast La taza de Amadeu (Sirvelia): https://sirvelia.mumbler.io/c/la-taza-de-nilo-velez
-5. **Datos vivos**: plugin **Contributor Résumé** (https://wordpress.org/plugins/contributor-resume/).
+5. **Datos vivos**: plugin de terceros **Contributor Résumé** (https://wordpress.org/plugins/contributor-resume/), que saca el historial de contribuciones del perfil de WordPress.org.
 
 ### Contributor Résumé
 
 - Un bloque con hasta 18 secciones activables y reordenables **por bloque**: se pueden poner varios bloques en la página, cada uno junto al texto de su equipo (traducciones junto a Polyglots, fotos junto a Photo Directory, eventos y versiones al final, cabecera con insignias y dedicación arriba).
 - Los **eventos salen del timeline de actividad del perfil**, no del campo "Origin Story". El Origin Story se muestra como texto aparte.
 - Todo cacheado en local; la página pública no hace peticiones externas.
-- Estilo: plantillas sobrescribibles en `tema/contributor-resume/` y variables CSS `--cvr-`.
+- Estilo: plantillas sobrescribibles en `contributor-resume/`, dentro del tema (`web/tema/`) y variables CSS `--cvr-`.
 - WP-CLI: `wp cresume refresh`, `wp cresume status`, `wp cresume clear-cache`.
 - **Pendiente**: probarlo en el sitio de prueba. Se espera que los eventos anteriores a ~2017 (WordCamp Sevilla 2011–2013, 2016) no salgan en el timeline.
 
@@ -92,19 +94,21 @@ Reescribir el campo del perfil de WordPress.org (https://profiles.wordpress.org/
 
 ## Ponencias (Decidido)
 
-- Ficha por charla: título, evento, fecha, tipo (charla, taller, flash talk, apertura), resumen, vídeo de WordPress.tv incrustado, diapositivas, enlaces relacionados.
+- Ficha por charla: título, evento, fecha, formato (charla, taller, flash talk, apertura), resumen, vídeo de WordPress.tv incrustado, diapositivas, enlaces relacionados.
 - Archivo: próxima charla destacada arriba y el resto por año.
 - URLs actuales (`/ponencias/...`) se mantienen: sin redirecciones.
 - CTA contextual: "Escríbeme si quieres que hable en tu evento".
 
 ## Fotografía (Decidido)
 
-- **Sesiones**: no se alojan galerías. Cada sesión es una ficha ligera con portada alojada en la web, título, fecha, lugar/evento, su papel ("fotos mías" / "fotógrafo junto a otros") y botón al álbum ("Ver en Google Photos" / "Ver en Flickr").
+- **Categoría**: se llama «Fotografía» y su slug es `foto-video`, para no cambiar las URLs ya publicadas. Es el slug que debe comprobar el plugin de checklist.
+- **Entradas**: cada entrada es la reseña de un evento en el que Nilo ha sido fotógrafo, y enlaza a su sesión de fotografía (el álbum externo), o una sesión huérfana (ver abajo). No se alojan galerías. Lleva portada alojada en la web, título, fecha, evento, su papel («fotos mías» / «fotógrafo junto a otros») y botón al álbum («Ver en Google Photos» / «Ver en Flickr»).
   - Sesiones propias → Google Photos. WordCamps → cuentas de Flickr de la comunidad.
   - Filtrable entre eventos y sesiones propias.
+  - **Sesiones huérfanas**: una sesión de fotos o un vídeo que no tiene que ver con ningún evento. Es una entrada de la misma categoría, sin evento. En el repo hay que llevar el control de estas sesiones, aparte de los eventos. Pendiente: decidir cómo.
   - Recomendación: guardar 3–5 fotos en local en sesiones importantes por si el álbum externo se rompe.
 - **Portfolio**: 15–25 fotos alojadas en la web.
-- Migración: las entradas de `/foto-video/` pasan a fichas de sesión, con redirección.
+- Las URLs de `/foto-video/` se mantienen: sin redirecciones. Las entradas existentes se van actualizando una a una.
 - CTA opcional: "¿Necesitas fotos para tu evento?".
 
 ## Proyectos (Decidido)
@@ -135,7 +139,7 @@ Reescribir el campo del perfil de WordPress.org (https://profiles.wordpress.org/
   - **Se reescriben**: útiles pero ancladas a un momento ("hoy ha publicado…"). Si depende de una versión, decirlo en el texto ("funciona con WordPress 6.x").
   - **Se van con redirección**: las que solo tienen sentido en su fecha (Paperman y los Oscar, comparativa de nubes con Skydrive).
   - **Se eliminan**: contenido ajeno (repost de Ben Cherry, *JavaScript Module Pattern*).
-- Reducir categorías a 4–5 claras.
+- Agrupar los temas del blog en 4–5 etiquetas claras, en vez de subcategorías (opción preferida, no cerrada).
 
 ## CTAs contextuales (Decidido)
 
@@ -161,26 +165,27 @@ Plugin propio sin datos propios (desactivarlo no rompe nada). Añade una **check
 $reglas = [
     'ponencias'  => [ 'plantilla' => 'entrada-con-video', 'imagen' => false ],
     'proyectos'  => [ 'plantilla' => 'proyecto',          'imagen' => true  ],
-    'fotografia' => [ 'plantilla' => null,                'imagen' => true  ],
+    'foto-video' => [ 'plantilla' => null,                'imagen' => true  ],
 ];
 ```
 
-- **Pendiente**: Nilo debe dar los slugs reales de categorías y plantillas.
+- **Pendiente**: slugs reales de las plantillas. Los de categoría son `ponencias`, `proyectos`, `foto-video` y `blog`.
 
 ## Redirecciones (Pendiente: inventario)
 
 - `/wptv` → `/herramientas/wptv/`
-- Entradas de `/foto-video/` → nuevas fichas de sesión.
 - Entradas del blog retiradas → destino a decidir en la revisión.
 
 ## Otros detalles técnicos detectados
 
 - Datos estructurados: el autor figura como "@NiloVelez" en vez de su nombre.
-- `sameAs` solo incluye Instagram, X y YouTube; añadir GitHub, WordPress.org, WordPress.tv, Mastodon (@nilo@wptoots.social), LinkedIn.
+- `sameAs` solo incluye Instagram, X y YouTube. Pendiente: decidir qué redes se añaden. La lista completa está en `identidad/cuentas.md`; Mastodon no se usa.
 - Títulos genéricos del tema ("Archivo de Blog").
 - Cifras cambiantes (instalaciones de Machete: 7.000+ en la web, 6.000+ en wordpress.org): mejor no escribirlas a mano.
 
 ## Datos de referencia (a fecha de octubre de 2026)
+
+Son orientativos: algunos son estimaciones o no tienen una referencia directa (por ejemplo, «webs desde 1998» es cuando empezó a hacerlas por su cuenta, no a trabajar en ello). Al publicarlos hay que ajustarlos a la referencia.
 
 - Webs desde 1998; WordPress desde 2005 (primera versión 1.5); comunidad desde 2011.
 - Colaborador patrocinado por Hostinger (Five for the Future): 20 h/semana + 10 propias.
@@ -193,9 +198,11 @@ $reglas = [
 
 ## Siguientes pasos sugeridos
 
+Orden de trabajo: se prepara primero el contenido, en este repo, y a partir de él se preparan después las categorías, el diseño y la portada. No al revés.
+
 1. Probar Contributor Résumé en el sitio de prueba.
 2. Pasar los slugs de categorías y plantillas y escribir el plugin de checklist.
 3. Redactar los textos de cada bloque de la portada y de los equipos de WordPress.
 4. Redactar el Origin Story narrativo.
-5. Inventario del blog y de `/foto-video/` y lista de redirecciones.
+5. Inventario del blog y lista de redirecciones.
 6. Fichas de Proyectos y páginas de Herramientas.

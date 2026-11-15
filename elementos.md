@@ -149,3 +149,4 @@ plantillas/                  una plantilla por tipo de nota
 - Qué más contenido vive solo en la web, aparte de las herramientas.
 - Qué parte de `.obsidian/` se versiona (colores, plugins, exclusiones) y cuál se ignora (estado de ventanas, zoom del grafo).
 - Los campos concretos de cada tipo de nota (se definen al crear las plantillas).
+- Piezas sueltas, sin evento ni comunidad. Regla actual: campos vacíos y el sitio como texto en `lugar`. Por decidir cuando aparezca el primer caso: dónde vive un vídeo suelto. Ejemplos: un tutorial sin evento (una ponencia sin `evento` ni `comunidad`, con `formato` tutorial) y el after movie de un evento sin ficha (categoría Fotografía, sin nota donde vivir: la galería es solo un álbum de fotos). Para las sesiones de fotos sin evento, la idea es que la galería lleve `articulo`, `imagen_destacada` y `revisada`.
