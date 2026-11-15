@@ -1,0 +1,51 @@
+filters:
+  and:
+    - tipo == "etapa"
+    - file.inFolder("trayectoria/etapas")
+views:
+  - type: table
+    name: Todas
+    order:
+      - file.name
+      - titulo
+      - empresa
+      - fecha_inicio
+      - fecha_fin
+      - categoria
+      - revisada
+      - publicada
+    sort:
+      - property: fecha_inicio
+        direction: DESC
+      - property: file.name
+        direction: DESC
+  - type: table
+    name: Sin descripción
+    filters:
+      and:
+        - file.size < 250
+    order:
+      - file.name
+      - titulo
+      - fecha_inicio
+    sort:
+      - property: fecha_inicio
+        direction: DESC
+  - type: table
+    name: Sin fecha de fin
+    filters:
+      and:
+        - fecha_fin.isEmpty()
+    order:
+      - file.name
+      - titulo
+      - fecha_inicio
+  - type: table
+    name: Sin lugar
+    filters:
+      and:
+        - lugar.isEmpty()
+    order:
+      - file.name
+      - titulo
+      - empresa

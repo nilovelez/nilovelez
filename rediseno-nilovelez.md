@@ -110,6 +110,7 @@ Reescribir el campo del perfil de WordPress.org (https://profiles.wordpress.org/
 
 ## Proyectos (Decidido)
 
+- **URL**: la categoría se llama `proyectos`, con slug `proyectos`, y cada ficha cuelga de ella: `nilovelez.com/proyectos/<nombre-del-proyecto>/`. La entrada del menú es «Proyectos».
 - Lista lo que ha hecho o está haciendo, **en español y en su voz**. El repo y la web de cada proyecto (normalmente en inglés) explican el producto; su web explica por qué lo hizo. No duplicar.
 - Ficha: imagen, nombre + una línea, estado (activo / en desarrollo / archivado), texto en primera persona (de dónde salió, qué problema resuelve, para quién), enlaces, contenido relacionado (charlas, entradas).
 - **Regla de enlaces**: enlazar a lo que no caduca (web y repo), nunca a instaladores versionados ni a la Store.
