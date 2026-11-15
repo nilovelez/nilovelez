@@ -10,20 +10,21 @@ Todo lo que se publique en GitHub es público. Se trabaja en local y Nilo decide
 
 ## Identidad
 
-1. **Bio**: una general con todo y versiones preparadas por uso (ponencias, redes, profesional/LinkedIn, perfil de WordPress.org). Si cambia la general, hay que revisar las derivadas.
-2. **Cuentas y perfiles**: lista de referencia con todas las cuentas y su URL. De ahí tiran la web, el README y los datos estructurados.
-3. **Imagen de marca**: foto de perfil, avatar, logo… versionados en el repo, con dónde está cada uno en uso.
+- **Bio**: una general con todo y versiones preparadas por uso (ponencias, redes, profesional/LinkedIn, perfil de WordPress.org). Si cambia la general, hay que revisar las derivadas.
+- **Cuentas y perfiles**: lista de referencia con todas las cuentas y su URL. De ahí tiran la web, el README y los datos estructurados.
+- **Imagen de marca**: foto de perfil, avatar, logo… versionados en el repo, con dónde está cada uno en uso.
 
 ## Trayectoria
 
-4. **Currículum**: línea temporal de etapas con principio y fin, que pueden solaparse. Cada etapa lleva un tipo (profesional, comunidad…) para filtrar según el destino.
-5. **Certificaciones**: certificaciones y cursos con certificado que no son formación reglada.
+- **Currículum**: línea temporal de etapas con principio y fin, que pueden solaparse.
+- **Certificaciones**: certificaciones y cursos con certificado que no son formación reglada.
+- **Reconocimientos**: créditos en versiones de WordPress, insignias, Yoast Care Fund, Five for the Future…
 
 ## Comunidad WordPress
 
-6. **Equipos**: un documento por equipo con el rol, los logros y datos destacados que se actualizan (con fecha de revisión).
-7. **Registro de eventos**: completo, tipo changelog. Cada evento recoge los papeles desempeñados (organizador, voluntario, fotógrafo, ponente, mentor) y cada papel apunta a su pieza (ponencia, galería). Alimenta el perfil de WordPress.org: último año en detalle, resumen de los anteriores y remisión a la web.
-8. **Ponencias**: una entrada cada vez que se da (cambian las diapositivas, el lugar y la grabación), enlazada a su evento.
+- **Equipos**: un documento por equipo con el rol, los logros y datos destacados que se actualizan (con fecha de revisión).
+- **Registro de eventos**: completo, tipo changelog. Cada evento recoge los papeles desempeñados (organizador, voluntario, fotógrafo, ponente, mentor) y cada papel apunta a su pieza (ponencia, galería). Alimenta el perfil de WordPress.org: último año en detalle, resumen de los anteriores y remisión a la web.
+- **Ponencias**: una entrada cada vez que se da (cambian las diapositivas, el lugar y la grabación), enlazada a su evento.
 
 Ejemplo:
 
@@ -35,17 +36,17 @@ WordCamp Madrid 2023
 
 ## Obra
 
-9. **Proyectos**: todo, no solo software, con fechas. Tres tipos:
+- **Proyectos**: todo, no solo software, con fechas. Tres tipos:
    - Desarrollo: plugins, temas, apps. Explicación y enlaces (web y repo).
    - Webs: detalles y dirección. Activa → dirección enlazada; cerrada → dirección como texto, sin enlace.
    - Sueltos: proyectos que simplemente se cuentan.
-10. **Fotografía**: fichas de galería, una por álbum externo (Flickr, Google Photos), que cuelgan de la ficha de su evento. Pueden ser varias por evento o ninguna. La reseña del evento en la web (la entrada de foto y vídeo) es del evento, no de la galería.
-11. **Entrevistas**: fecha, título, enlace original y texto completo como archivo. Audios y vídeos se guardan en local; el repo solo los referencia. En la web solo va un resumen con enlace al original.
-12. **Artículos**: solo inventario de lo publicado y dónde.
+- **Fotografía**: fichas de galería, una por álbum externo (Flickr, Google Photos), que cuelgan de la ficha de su evento. Pueden ser varias por evento o ninguna. La reseña del evento en la web (la entrada de foto y vídeo) es del evento, no de la galería.
+- **Entrevistas**: fecha, título, enlace original y texto completo como archivo. Audios y vídeos se guardan en local; el repo solo los referencia. En la web solo va un resumen con enlace al original.
+- **Artículos**: solo inventario de lo publicado y dónde.
 
 ## Seguimiento
 
-13. **Publicación**: tareas independientes con dependencias, que se desbloquean según llega cada cosa. Debe responder qué está hecho, qué falta y qué se puede hacer ya. Ejemplo de una charla:
+- **Publicación**: tareas independientes con dependencias, que se desbloquean según llega cada cosa. Debe responder qué está hecho, qué falta y qué se puede hacer ya. Ejemplo de una charla:
 
 ```
 charla dada ──► ficha (fecha, evento, título) + imagen destacada
@@ -54,11 +55,11 @@ vídeo en WordPress.tv ──► copia en el NAS ──► YouTube (descripción
 imagen + YouTube + Speaker Deck ──► artículo en la web
 ```
 
-14. **Backlog de contenido** (artículos, podcast, vídeos pendientes): fuera del repo, en un servicio online privado (Notion, Google Sheets…). El repo solo indica dónde está.
+- **Backlog de contenido** (artículos, podcast, vídeos pendientes): fuera del repo, en un servicio online privado (Notion, Google Sheets…). El repo solo indica dónde está.
 
 ## Web personal
 
-15. Sección propia:
+- Sección propia:
     - El tema de bloques.
     - El contenido que solo vive en la web (por ejemplo, las páginas de herramientas, que pueden tener además su ficha en Proyectos).
     - Un mapa de qué partes de la web tiran de qué datos.
@@ -95,7 +96,7 @@ El plan de rediseño (`web/rediseno.md`) es un subproyecto de esta sección.
 - **Compatible con Obsidian, y el repo entero es la bóveda.** El README del perfil es una nota más. Las carpetas que no son notas (código del tema, scripts) se excluyen en `.obsidian/app.json` (`userIgnoreFilters`).
 - **Enlaces internos con `[[ ]]`**, y en la cabecera entre comillas: `evento: "[[evento-wordcamp-madrid-2023]]"`. Así cuentan en el grafo y en los enlaces entrantes. Inconveniente aceptado: GitHub los muestra como texto plano.
 - **El enlace va en un solo sentido**: la pieza apunta al evento, y el evento no repite sus piezas, que aparecen en sus enlaces entrantes.
-- **Nombres de archivo únicos en todo el repo, con prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`. Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
+- **Nombres de archivo únicos en todo el repo, con prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `reconocimiento-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`. Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
 - **Las ponencias tienen slug propio a partir del título** (`ponencia-esta-no-es-la-charla-de-seguridad`). Si el título se repite, se añade un sufijo con el año o el sitio. El evento es opcional: si no tiene ficha, se deja vacío `evento` y se escribe el sitio como texto en `lugar`.
 - **El seguimiento de publicación** no tiene carpeta: sale de los campos vacíos y se consulta con vistas de Bases (`vistas/*.base`).
 - **Plantillas por tipo** en `plantillas/`: sirven para el plugin de plantillas de Obsidian y como referencia de campos para los agentes.
@@ -115,6 +116,7 @@ identidad/
 trayectoria/
   etapas/                    etapa-…
   certificaciones/           certificacion-…
+  reconocimientos/           reconocimiento-…
 
 wordpress/
   equipos/                   equipo-polyglots, equipo-photos, equipo-tv, equipo-community

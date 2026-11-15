@@ -41,7 +41,7 @@ La taxonomía es **«ponencias»**, como siempre se ha llamado en su web: carpet
 ### Nombres de archivo
 
 - Únicos en todo el repo (salvo los `README.md` de índice de cada carpeta), en minúsculas, sin tildes y con guiones.
-- Con **prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`.
+- Con **prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `reconocimiento-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`.
 - Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
 - **Ponencias**: slug a partir del título (`ponencia-esta-no-es-la-charla-de-seguridad`). Cada vez que se da es una entrada nueva; si el título se repite, sufijo con el año o el sitio. Si el evento no tiene ficha, `evento` vacío y el sitio como texto en `lugar`.
 - Al crear una nota, usar la plantilla de su tipo en `plantillas/`, cuando exista.
@@ -52,7 +52,7 @@ La taxonomía es **«ponencias»**, como siempre se ha llamado en su web: carpet
 README.md                    ← README del perfil de GitHub
 CLAUDE.md
 identidad/   bio/, imagen/, cuentas.md
-trayectoria/ etapas/, certificaciones/
+trayectoria/ etapas/, certificaciones/, reconocimientos/
 wordpress/   equipos/, comunidades/
 eventos/     un archivo por evento
 ponencias/   un archivo por vez que se da una ponencia
