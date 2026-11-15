@@ -6,7 +6,7 @@ Su objetivo es la **consistencia entre todo lo que publica**. El repo es la fuen
 
 ## Estado actual
 
-La estructura de carpetas está creada, aún sin contenido. El contenido se procesa poco a poco, a partir de material que Nilo ya tiene, y cada plantilla y sus campos se definen al procesar el primer contenido de su tipo, no antes en abstracto. La lista de elementos, las decisiones tomadas y lo aparcado están en `elementos.md`. `rediseno-nilovelez.md` es el plan de rediseño de la web, un subproyecto que pasará a `web/rediseno.md`.
+La estructura de carpetas está creada, aún sin contenido. El contenido se procesa poco a poco, a partir de material que Nilo ya tiene, y cada plantilla y sus campos se definen al procesar el primer contenido de su tipo, no antes en abstracto. La lista de elementos, las decisiones tomadas y lo aparcado están en `elementos.md`. `web/rediseno.md` es el plan de rediseño de la web, un subproyecto.
 
 ## Forma de trabajar
 
@@ -41,7 +41,7 @@ La taxonomía es **«ponencias»**, como siempre se ha llamado en su web: carpet
 ### Nombres de archivo
 
 - Únicos en todo el repo (salvo los `README.md` de índice de cada carpeta), en minúsculas, sin tildes y con guiones.
-- Con **prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `reconocimiento-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`.
+- Con **prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`.
 - Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
 - **Ponencias**: slug a partir del título (`ponencia-esta-no-es-la-charla-de-seguridad`). Cada vez que se da es una entrada nueva; si el título se repite, sufijo con el año o el sitio. Si el evento no tiene ficha, `evento` vacío y el sitio como texto en `lugar`.
 - Al crear una nota, usar la plantilla de su tipo en `plantillas/`, cuando exista.
@@ -52,7 +52,7 @@ La taxonomía es **«ponencias»**, como siempre se ha llamado en su web: carpet
 README.md                    ← README del perfil de GitHub
 CLAUDE.md
 identidad/   bio/, imagen/, cuentas.md
-trayectoria/ etapas/, reconocimientos/
+trayectoria/ etapas/, certificaciones/
 wordpress/   equipos/, comunidades/
 eventos/     un archivo por evento
 ponencias/   un archivo por vez que se da una ponencia

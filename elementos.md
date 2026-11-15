@@ -17,7 +17,7 @@ Todo lo que se publique en GitHub es público. Se trabaja en local y Nilo decide
 ## Trayectoria
 
 4. **Currículum**: línea temporal de etapas con principio y fin, que pueden solaparse. Cada etapa lleva un tipo (profesional, comunidad…) para filtrar según el destino.
-5. **Reconocimientos y certificaciones**: créditos en versiones de WordPress, insignias, Yoast Care Fund, Five for the Future…
+5. **Certificaciones**: certificaciones y cursos con certificado que no son formación reglada.
 
 ## Comunidad WordPress
 
@@ -63,7 +63,7 @@ imagen + YouTube + Speaker Deck ──► artículo en la web
     - El contenido que solo vive en la web (por ejemplo, las páginas de herramientas, que pueden tener además su ficha en Proyectos).
     - Un mapa de qué partes de la web tiran de qué datos.
 
-El plan de rediseño (`rediseno-nilovelez.md`) es un subproyecto de esta sección.
+El plan de rediseño (`web/rediseno.md`) es un subproyecto de esta sección.
 
 ## Canales de salida
 
@@ -95,7 +95,7 @@ El plan de rediseño (`rediseno-nilovelez.md`) es un subproyecto de esta secció
 - **Compatible con Obsidian, y el repo entero es la bóveda.** El README del perfil es una nota más. Las carpetas que no son notas (código del tema, scripts) se excluyen en `.obsidian/app.json` (`userIgnoreFilters`).
 - **Enlaces internos con `[[ ]]`**, y en la cabecera entre comillas: `evento: "[[evento-wordcamp-madrid-2023]]"`. Así cuentan en el grafo y en los enlaces entrantes. Inconveniente aceptado: GitHub los muestra como texto plano.
 - **El enlace va en un solo sentido**: la pieza apunta al evento, y el evento no repite sus piezas, que aparecen en sus enlaces entrantes.
-- **Nombres de archivo únicos en todo el repo, con prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `reconocimiento-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`. Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
+- **Nombres de archivo únicos en todo el repo, con prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `certificacion-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`. Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
 - **Las ponencias tienen slug propio a partir del título** (`ponencia-esta-no-es-la-charla-de-seguridad`). Si el título se repite, se añade un sufijo con el año o el sitio. El evento es opcional: si no tiene ficha, se deja vacío `evento` y se escribe el sitio como texto en `lugar`.
 - **El seguimiento de publicación** no tiene carpeta: sale de los campos vacíos y se consulta con vistas de Bases (`vistas/*.base`).
 - **Plantillas por tipo** en `plantillas/`: sirven para el plugin de plantillas de Obsidian y como referencia de campos para los agentes.
@@ -114,7 +114,7 @@ identidad/
 
 trayectoria/
   etapas/                    etapa-…
-  reconocimientos/           reconocimiento-…
+  certificaciones/           certificacion-…
 
 wordpress/
   equipos/                   equipo-polyglots, equipo-photos, equipo-tv, equipo-community

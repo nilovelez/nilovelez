@@ -1,4 +1,4 @@
 # Trayectoria
 
-- `etapas/`: el currículum como línea temporal.
-- `reconocimientos/`: reconocimientos y certificaciones.
+- [`etapas/`](etapas/README.md): el currículum como línea temporal.
+- [`certificaciones/`](certificaciones/README.md): certificaciones y cursos con certificado.
