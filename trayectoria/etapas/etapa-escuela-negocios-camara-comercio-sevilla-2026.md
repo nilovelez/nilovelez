@@ -5,7 +5,6 @@ empresa: "Escuela de Negocios de la Cámara de Comercio de Sevilla"
 lugar: "Sevilla"
 fecha_inicio: 2026-02
 fecha_fin: 2026-03
-categoria:
 revisada: true
 publicada:
 ---

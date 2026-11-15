@@ -5,7 +5,6 @@ empresa: "Grupo SÖRENSEN"
 lugar: "Madrid"
 fecha_inicio: 2005-06
 fecha_fin: 2005-08
-categoria:
 revisada: true
 publicada:
 ---

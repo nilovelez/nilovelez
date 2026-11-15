@@ -5,7 +5,6 @@ empresa: "PK2 Producciones Audiovisuales"
 lugar: "Osuna"
 fecha_inicio: 2003-07
 fecha_fin: 2004-01
-categoria:
 revisada: true
 publicada:
 ---

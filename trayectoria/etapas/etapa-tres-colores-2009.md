@@ -5,7 +5,6 @@ empresa: "Tres Colores"
 lugar:
 fecha_inicio: 2009-10
 fecha_fin: 2016-09
-categoria:
 revisada: true
 publicada:
 ---

@@ -5,7 +5,6 @@ empresa: "Magic Touch"
 lugar: "Sevilla y alrededores, España"
 fecha_inicio: 2007-06
 fecha_fin: 2010-03
-categoria:
 revisada: true
 publicada:
 ---

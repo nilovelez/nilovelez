@@ -5,7 +5,6 @@ empresa: "Bluumi SA"
 lugar: "Sevilla"
 fecha_inicio: 2015-08
 fecha_fin: 2015-09
-categoria:
 revisada: true
 publicada:
 ---

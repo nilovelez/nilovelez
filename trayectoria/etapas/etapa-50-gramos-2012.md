@@ -5,7 +5,6 @@ empresa: "50 Gramos"
 lugar:
 fecha_inicio: 2012-03
 fecha_fin: 2016-09
-categoria:
 revisada: true
 publicada:
 ---

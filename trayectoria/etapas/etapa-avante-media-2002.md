@@ -5,7 +5,6 @@ empresa: "Avante Media"
 lugar: "Madrid y alrededores, España"
 fecha_inicio: 2002-11
 fecha_fin: 2002-12
-categoria:
 revisada: true
 publicada:
 ---

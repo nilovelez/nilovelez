@@ -5,7 +5,6 @@ empresa: "Estudio Gráfico Juan de la Mata"
 lugar: "Madrid y alrededores, España"
 fecha_inicio: 2000-04
 fecha_fin: 2002-11
-categoria:
 revisada: true
 publicada:
 ---

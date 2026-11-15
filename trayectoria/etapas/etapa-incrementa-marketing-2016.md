@@ -5,7 +5,6 @@ empresa: "Incrementa Marketing"
 lugar:
 fecha_inicio: 2016-08
 fecha_fin: 2020-10
-categoria:
 revisada: true
 publicada:
 ---

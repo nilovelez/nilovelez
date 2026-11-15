@@ -5,7 +5,6 @@ empresa:
 lugar:
 fecha_inicio: 2020-03
 fecha_fin:
-categoria:
 revisada: true
 publicada:
 ---

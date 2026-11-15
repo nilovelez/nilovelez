@@ -5,7 +5,6 @@ empresa: "Junta Municipal del Distrito Macarena"
 lugar: "Sevilla y alrededores, España"
 fecha_inicio: 2006-06
 fecha_fin: 2007-05
-categoria:
 revisada: true
 publicada:
 ---

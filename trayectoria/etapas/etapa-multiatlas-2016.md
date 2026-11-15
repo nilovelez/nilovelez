@@ -5,7 +5,6 @@ empresa: "Multiatlas, S.L"
 lugar: "Sevilla y alrededores, España"
 fecha_inicio: 2016-02
 fecha_fin: 2016-08
-categoria:
 revisada: true
 publicada:
 ---

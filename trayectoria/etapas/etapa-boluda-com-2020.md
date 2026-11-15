@@ -5,7 +5,6 @@ empresa: "boluda.com"
 lugar:
 fecha_inicio: 2020-09
 fecha_fin: 2023-11
-categoria:
 revisada: true
 publicada:
 ---
