@@ -40,7 +40,7 @@ La taxonomía es **«ponencias»**, como siempre se ha llamado en su web: carpet
 
 ### Nombres de archivo
 
-- Únicos en todo el repo, en minúsculas, sin tildes y con guiones.
+- Únicos en todo el repo (salvo los `README.md` de índice de cada carpeta), en minúsculas, sin tildes y con guiones.
 - Con **prefijo de tipo**: `evento-`, `ponencia-`, `galeria-`, `proyecto-`, `etapa-`, `reconocimiento-`, `equipo-`, `entrevista-`, `articulo-`, `bio-`.
 - Los archivos únicos (`cuentas.md`, `mapa.md`) no llevan prefijo.
 - **Ponencias**: slug a partir del título (`ponencia-esta-no-es-la-charla-de-seguridad`). Cada vez que se da es una entrada nueva; si el título se repite, sufijo con el año o el sitio. Si el evento no tiene ficha, `evento` vacío y el sitio como texto en `lugar`.
@@ -62,7 +62,7 @@ vistas/      tablas de Bases (.base) para seguimiento y consultas
 plantillas/  una plantilla por tipo de nota
 ```
 
-Cada carpeta tiene una nota índice con su mismo nombre (`ponencias/ponencias.md`) que explica qué va en ella y cómo se nombran sus notas; es la referencia de esa carpeta, y hay que mantenerla al día si cambia su uso. Así además git conserva las carpetas vacías. La estructura es un punto de partida y se ajusta según se mete contenido.
+Cada carpeta tiene una nota índice llamada `README.md` (`ponencias/README.md`), para que GitHub la muestre al abrir la carpeta, que explica qué va en ella y cómo se nombran sus notas; es la referencia de esa carpeta, y hay que mantenerla al día si cambia su uso. Así además git conserva las carpetas vacías. La estructura es un punto de partida y se ajusta según se mete contenido.
 
 ## Seguimiento de publicación
 
