@@ -16,6 +16,8 @@ views:
     sort:
       - property: fecha
         direction: DESC
+      - property: articulo
+        direction: ASC
       - property: file.name
         direction: DESC
   - type: table
@@ -38,6 +40,9 @@ views:
       - fecha
       - video_wptv
       - diapositivas
+    sort:
+      - property: fecha
+        direction: DESC
   - type: table
     name: Por revisar
     filters:
