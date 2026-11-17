@@ -36,10 +36,10 @@ WordCamp Madrid 2023
 
 ## Obra
 
-- **Proyectos**: todo, no solo software, con fechas. Tres tipos:
-   - Desarrollo: plugins, temas, apps. Explicación y enlaces (web y repo).
-   - Webs: detalles y dirección. Activa → dirección enlazada; cerrada → dirección como texto, sin enlace.
-   - Sueltos: proyectos que simplemente se cuentan.
+- **Proyectos**: todo, no solo software, con fechas. Campo `clase`:
+   - web: detalles y dirección. Activa → dirección enlazada; cerrada → dirección como texto, sin enlace.
+   - plugin y tema: explicación y enlaces (ficha y repo).
+   - desarrollo: cajón de sastre, con las aplicaciones y los proyectos sueltos que simplemente se cuentan.
 - **Fotografía**: fichas de galería, una por álbum externo (Flickr, Google Photos), que cuelgan de la ficha de su evento. Pueden ser varias por evento o ninguna. La reseña del evento en la web (la entrada de foto y vídeo) es del evento, no de la galería.
 - **Entrevistas**: fecha, título, enlace original y texto completo como archivo. Audios y vídeos se guardan en local; el repo solo los referencia. En la web solo va un resumen con enlace al original.
 - **Artículos**: solo inventario de lo publicado y dónde.

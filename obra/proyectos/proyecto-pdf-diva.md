@@ -1,6 +1,14 @@
 ---
 tipo: proyecto
 titulo: PDF Diva
+clase: desarrollo
+fecha_inicio:
+fecha_fin:
+web: https://pdfdiva.nilovelez.com/
+repo: https://github.com/nilovelez/pdf-diva/
+articulo:
+imagen_destacada:
+revisada:
 ---
 
 **PDF Diva**

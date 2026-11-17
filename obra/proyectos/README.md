@@ -1,9 +1,10 @@
 # Proyectos
 
-Todo lo que Nilo ha hecho o está haciendo, no solo software, con fechas. Tres clases:
+Todo lo que Nilo ha hecho o está haciendo, no solo software, con fechas. Campo `clase`:
 
-- **Desarrollo**: plugins, temas, apps. Explicación y enlaces a lo que no caduca (web y repo).
-- **Webs**: detalles y dirección. Activa → dirección enlazada; cerrada → dirección como texto, sin enlace.
-- **Sueltos**: proyectos que simplemente se cuentan.
+- **web**: detalles y dirección. Activa → dirección enlazada; cerrada → dirección como texto, sin enlace.
+- **plugin**: explicación y enlaces a lo que no caduca (ficha y repo).
+- **tema**: igual que plugin.
+- **desarrollo**: el cajón de sastre: aplicaciones y proyectos sueltos que simplemente se cuentan.
 
 Nombre: `proyecto-<slug>`.
